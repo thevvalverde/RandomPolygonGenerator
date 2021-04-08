@@ -1,0 +1,66 @@
+Please enter the number of points to be generated: 
+Please enter the number corresponding to the function you desire.
+1 - Enter Coordinates
+2 - Randomly Generate
+0 - Exit the program.
+A (1, 3)
+B (3, -7)
+C (-9, 8)
+D (-4, 5)
+E (-1, 6)
+F (0, 8)
+G (6, -9)
+H (2, 3)
+I (1, 8)
+J (-7, 1)
+K (-9, 1)
+L (8, -1)
+M (7, 4)
+N (6, -5)
+O (5, -9)
+P (7, 8)
+Q (-3, -1)
+R (-7, -10)
+S (0, -5)
+T (-2, 0)
+Please enter the number corresponding to the function you desire.
+1 - Random permutation
+2 - Nearest Neighbour
+3 - Ant Colony Optimization
+0 - Exit the program.
+Please enter the number corresponding to the function you desire.
+1 - Best-improvement First
+2 - First-improvement
+3 - Less-conflicts
+4 - Anyone
+5 - Simulated Annealing (amount of intersections)
+# - Exit the program.
+Current solution: [A, H, E, F, I, P, J, K, Q, T, S, B, O, G, N, L, M, D, C, R]
+Current solution: [A, H, E, F, I, P, M, K, Q, T, S, B, O, G, N, L, J, D, C, R]
+Current solution: [A, M, E, F, I, P, H, K, Q, T, S, B, O, G, N, L, J, D, C, R]
+Current solution: [A, M, E, F, I, P, H, K, C, T, S, B, O, G, N, L, J, D, Q, R]
+Current solution: [A, M, E, F, I, P, H, K, C, L, S, B, O, G, N, T, J, D, Q, R]
+Current solution: [A, M, E, F, I, P, H, J, C, L, S, B, O, G, N, T, K, D, Q, R]
+Current solution: [A, M, E, F, I, P, H, J, C, R, S, B, O, G, N, T, K, D, Q, L]
+Current solution: [A, M, E, F, I, P, H, J, C, T, S, B, O, G, N, R, K, D, Q, L]
+Current solution: [A, M, P, F, I, E, H, J, C, T, S, B, O, G, N, R, K, D, Q, L]
+Current solution: [A, M, P, F, I, E, H, J, C, T, S, N, O, G, B, R, K, D, Q, L]
+Current solution: [A, M, P, F, I, E, H, J, C, T, S, N, G, O, B, R, K, D, Q, L]
+Current solution: [A, M, P, F, I, E, H, C, J, T, S, N, G, O, B, R, K, D, Q, L]
+Current solution: [A, M, P, F, I, E, H, C, J, T, Q, N, G, O, B, R, K, D, S, L]
+Current solution: [A, M, P, F, I, E, H, C, J, D, Q, N, G, O, B, R, K, T, S, L]
+Current solution: [A, M, P, F, I, E, H, C, J, D, Q, T, G, O, B, R, K, N, S, L]
+Current solution: [A, M, P, F, I, E, H, C, J, D, Q, T, G, O, B, R, K, S, N, L]
+Current solution: [A, M, P, I, F, E, H, C, J, D, Q, T, G, O, B, R, K, S, N, L]
+Current solution: [A, M, P, I, F, E, H, C, J, D, Q, T, S, O, B, R, K, G, N, L]
+Current solution: [A, M, P, I, F, E, H, C, J, D, Q, T, S, O, B, K, R, G, N, L]
+Current solution: [A, H, P, I, F, E, M, C, J, D, Q, T, S, O, B, K, R, G, N, L]
+Current solution: [A, H, P, I, F, E, M, C, J, D, Q, T, S, B, O, K, R, G, N, L]
+Current solution: [A, H, P, I, F, M, E, C, J, D, Q, T, S, B, O, K, R, G, N, L]
+Current solution: [A, H, M, I, F, P, E, C, J, D, Q, T, S, B, O, K, R, G, N, L]
+Current solution: [A, H, M, F, I, P, E, C, J, D, Q, T, S, B, O, K, R, G, N, L]
+Current solution: [A, H, M, P, I, F, E, C, J, D, Q, T, S, B, O, K, R, G, N, L]
+Found the simple polygon: [A, H, M, P, I, F, E, C, J, D, Q, T, S, B, O, K, R, G, N, L]
+ ----------------------------  
+Please enter the number of points to be generated: 
+Exiting...

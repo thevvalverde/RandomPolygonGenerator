@@ -1,0 +1,8 @@
+> 0         // Number of points to be generated.
+1/2         // 1 to enter manually, 2 to randomly generate.
+*if random  // boundaries to randomly generate.
+*if manual  // enter all points in the format X Y
+1/2/3       // 1 for random permutation, 2 for nearest neighbour, 3 for ant colony.
+1/2/3/4/5   // 1 for Best-Improvement, 2 for First-Improvement, 3 for Less-Conflicts, 4 for random, 5 for SA
+*if 5       // max number of SA Iterations.
+0 to exit.

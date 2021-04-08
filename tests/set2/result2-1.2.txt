@@ -1,0 +1,288 @@
+Please enter the number of points to be generated: 
+Please enter the number corresponding to the function you desire.
+1 - Enter Coordinates
+2 - Randomly Generate
+0 - Exit the program.
+A (-9, 33)
+B (-4, -3)
+C (-41, -29)
+D (-46, 13)
+E (23, -18)
+F (1, -9)
+G (-19, 34)
+H (-22, 40)
+I (-29, -9)
+J (16, -2)
+K (14, 20)
+L (39, 48)
+M (18, 9)
+N (45, -3)
+O (-2, 0)
+P (5, 8)
+Q (32, -9)
+R (17, -30)
+S (-28, -48)
+T (-1, 16)
+U (-12, 23)
+V (34, 1)
+W (-26, 6)
+X (-4, -11)
+Y (22, -12)
+Z (46, 43)
+A0 (1, -44)
+B0 (35, 46)
+C0 (-50, -38)
+D0 (43, 35)
+E0 (-27, 45)
+F0 (38, 43)
+G0 (-44, -33)
+H0 (-13, -25)
+I0 (-50, -13)
+J0 (0, 37)
+K0 (24, -1)
+L0 (1, -40)
+M0 (6, -14)
+N0 (37, -49)
+O0 (-41, -9)
+P0 (31, -37)
+Q0 (6, -11)
+R0 (26, -23)
+S0 (-47, -5)
+T0 (2, 41)
+U0 (-32, -41)
+V0 (28, 35)
+W0 (-13, 12)
+X0 (17, -31)
+Please enter the number corresponding to the function you desire.
+1 - Random permutation
+2 - Nearest Neighbour
+3 - Ant Colony Optimization
+0 - Exit the program.
+Please enter the number corresponding to the function you desire.
+1 - Best-improvement First
+2 - First-improvement
+3 - Less-conflicts
+4 - Anyone
+5 - Simulated Annealing (amount of intersections)
+# - Exit the program.
+Current solution: [J, V0, C, E, A, W, X0, I, R0, L0, H0, K0, J0, B0, O0, S0, O, D, G, M, V, A0, X, N, Q, E0, N0, R, B, T0, W0, P, P0, F0, L, F, K, D0, M0, I0, Z, Y, G0, U, Q0, C0, U0, T, S, H]
+Current solution: [J, K0, C, E, A, W, X0, I, R0, L0, H0, V0, J0, B0, O0, S0, O, D, G, M, V, A0, X, N, Q, E0, N0, R, B, T0, W0, P, P0, F0, L, F, K, D0, M0, I0, Z, Y, G0, U, Q0, C0, U0, T, S, H]
+Current solution: [J, Q, C, E, A, W, X0, I, R0, L0, H0, V0, J0, B0, O0, S0, O, D, G, M, V, A0, X, N, K0, E0, N0, R, B, T0, W0, P, P0, F0, L, F, K, D0, M0, I0, Z, Y, G0, U, Q0, C0, U0, T, S, H]
+Current solution: [J, V, C, E, A, W, X0, I, R0, L0, H0, V0, J0, B0, O0, S0, O, D, G, M, Q, A0, X, N, K0, E0, N0, R, B, T0, W0, P, P0, F0, L, F, K, D0, M0, I0, Z, Y, G0, U, Q0, C0, U0, T, S, H]
+Current solution: [J, M, C, E, A, W, X0, I, R0, L0, H0, V0, J0, B0, O0, S0, O, D, G, V, Q, A0, X, N, K0, E0, N0, R, B, T0, W0, P, P0, F0, L, F, K, D0, M0, I0, Z, Y, G0, U, Q0, C0, U0, T, S, H]
+Current solution: [J, K0, C, E, A, W, X0, I, R0, L0, H0, V0, J0, B0, O0, S0, O, D, G, V, Q, A0, X, N, M, E0, N0, R, B, T0, W0, P, P0, F0, L, F, K, D0, M0, I0, Z, Y, G0, U, Q0, C0, U0, T, S, H]
+Current solution: [J, K0, E, C, A, W, X0, I, R0, L0, H0, V0, J0, B0, O0, S0, O, D, G, V, Q, A0, X, N, M, E0, N0, R, B, T0, W0, P, P0, F0, L, F, K, D0, M0, I0, Z, Y, G0, U, Q0, C0, U0, T, S, H]
+Current solution: [J, K0, X, C, A, W, X0, I, R0, L0, H0, V0, J0, B0, O0, S0, O, D, G, V, Q, A0, E, N, M, E0, N0, R, B, T0, W0, P, P0, F0, L, F, K, D0, M0, I0, Z, Y, G0, U, Q0, C0, U0, T, S, H]
+Current solution: [J, K0, H0, C, A, W, X0, I, R0, L0, X, V0, J0, B0, O0, S0, O, D, G, V, Q, A0, E, N, M, E0, N0, R, B, T0, W0, P, P0, F0, L, F, K, D0, M0, I0, Z, Y, G0, U, Q0, C0, U0, T, S, H]
+Current solution: [J, K0, W, C, A, H0, X0, I, R0, L0, X, V0, J0, B0, O0, S0, O, D, G, V, Q, A0, E, N, M, E0, N0, R, B, T0, W0, P, P0, F0, L, F, K, D0, M0, I0, Z, Y, G0, U, Q0, C0, U0, T, S, H]
+Current solution: [J, K0, C, W, A, H0, X0, I, R0, L0, X, V0, J0, B0, O0, S0, O, D, G, V, Q, A0, E, N, M, E0, N0, R, B, T0, W0, P, P0, F0, L, F, K, D0, M0, I0, Z, Y, G0, U, Q0, C0, U0, T, S, H]
+Current solution: [J, K0, A, W, C, H0, X0, I, R0, L0, X, V0, J0, B0, O0, S0, O, D, G, V, Q, A0, E, N, M, E0, N0, R, B, T0, W0, P, P0, F0, L, F, K, D0, M0, I0, Z, Y, G0, U, Q0, C0, U0, T, S, H]
+Current solution: [J, K0, X, W, C, H0, X0, I, R0, L0, A, V0, J0, B0, O0, S0, O, D, G, V, Q, A0, E, N, M, E0, N0, R, B, T0, W0, P, P0, F0, L, F, K, D0, M0, I0, Z, Y, G0, U, Q0, C0, U0, T, S, H]
+Current solution: [J, K0, L0, W, C, H0, X0, I, R0, X, A, V0, J0, B0, O0, S0, O, D, G, V, Q, A0, E, N, M, E0, N0, R, B, T0, W0, P, P0, F0, L, F, K, D0, M0, I0, Z, Y, G0, U, Q0, C0, U0, T, S, H]
+Current solution: [J, K0, H0, W, C, L0, X0, I, R0, X, A, V0, J0, B0, O0, S0, O, D, G, V, Q, A0, E, N, M, E0, N0, R, B, T0, W0, P, P0, F0, L, F, K, D0, M0, I0, Z, Y, G0, U, Q0, C0, U0, T, S, H]
+Current solution: [J, K0, X0, W, C, L0, H0, I, R0, X, A, V0, J0, B0, O0, S0, O, D, G, V, Q, A0, E, N, M, E0, N0, R, B, T0, W0, P, P0, F0, L, F, K, D0, M0, I0, Z, Y, G0, U, Q0, C0, U0, T, S, H]
+Current solution: [J, K0, I, W, C, L0, H0, X0, R0, X, A, V0, J0, B0, O0, S0, O, D, G, V, Q, A0, E, N, M, E0, N0, R, B, T0, W0, P, P0, F0, L, F, K, D0, M0, I0, Z, Y, G0, U, Q0, C0, U0, T, S, H]
+Current solution: [J, K0, X, W, C, L0, H0, X0, R0, I, A, V0, J0, B0, O0, S0, O, D, G, V, Q, A0, E, N, M, E0, N0, R, B, T0, W0, P, P0, F0, L, F, K, D0, M0, I0, Z, Y, G0, U, Q0, C0, U0, T, S, H]
+Current solution: [J, K0, E0, W, C, L0, H0, X0, R0, I, A, V0, J0, B0, O0, S0, O, D, G, V, Q, A0, E, N, M, X, N0, R, B, T0, W0, P, P0, F0, L, F, K, D0, M0, I0, Z, Y, G0, U, Q0, C0, U0, T, S, H]
+Current solution: [J, K0, I, W, C, L0, H0, X0, R0, E0, A, V0, J0, B0, O0, S0, O, D, G, V, Q, A0, E, N, M, X, N0, R, B, T0, W0, P, P0, F0, L, F, K, D0, M0, I0, Z, Y, G0, U, Q0, C0, U0, T, S, H]
+Current solution: [J, K0, R0, W, C, L0, H0, X0, I, E0, A, V0, J0, B0, O0, S0, O, D, G, V, Q, A0, E, N, M, X, N0, R, B, T0, W0, P, P0, F0, L, F, K, D0, M0, I0, Z, Y, G0, U, Q0, C0, U0, T, S, H]
+Current solution: [J, K0, Q, W, C, L0, H0, X0, I, E0, A, V0, J0, B0, O0, S0, O, D, G, V, R0, A0, E, N, M, X, N0, R, B, T0, W0, P, P0, F0, L, F, K, D0, M0, I0, Z, Y, G0, U, Q0, C0, U0, T, S, H]
+Current solution: [J, K0, V, W, C, L0, H0, X0, I, E0, A, V0, J0, B0, O0, S0, O, D, G, Q, R0, A0, E, N, M, X, N0, R, B, T0, W0, P, P0, F0, L, F, K, D0, M0, I0, Z, Y, G0, U, Q0, C0, U0, T, S, H]
+Current solution: [J, G, V, W, C, L0, H0, X0, I, E0, A, V0, J0, B0, O0, S0, O, D, K0, Q, R0, A0, E, N, M, X, N0, R, B, T0, W0, P, P0, F0, L, F, K, D0, M0, I0, Z, Y, G0, U, Q0, C0, U0, T, S, H]
+Current solution: [J, V, G, W, C, L0, H0, X0, I, E0, A, V0, J0, B0, O0, S0, O, D, K0, Q, R0, A0, E, N, M, X, N0, R, B, T0, W0, P, P0, F0, L, F, K, D0, M0, I0, Z, Y, G0, U, Q0, C0, U0, T, S, H]
+Current solution: [J, D, G, W, C, L0, H0, X0, I, E0, A, V0, J0, B0, O0, S0, O, V, K0, Q, R0, A0, E, N, M, X, N0, R, B, T0, W0, P, P0, F0, L, F, K, D0, M0, I0, Z, Y, G0, U, Q0, C0, U0, T, S, H]
+Current solution: [J, G, D, W, C, L0, H0, X0, I, E0, A, V0, J0, B0, O0, S0, O, V, K0, Q, R0, A0, E, N, M, X, N0, R, B, T0, W0, P, P0, F0, L, F, K, D0, M0, I0, Z, Y, G0, U, Q0, C0, U0, T, S, H]
+Current solution: [J, B0, D, W, C, L0, H0, X0, I, E0, A, V0, J0, G, O0, S0, O, V, K0, Q, R0, A0, E, N, M, X, N0, R, B, T0, W0, P, P0, F0, L, F, K, D0, M0, I0, Z, Y, G0, U, Q0, C0, U0, T, S, H]
+Current solution: [J, O, D, W, C, L0, H0, X0, I, E0, A, V0, J0, G, O0, S0, B0, V, K0, Q, R0, A0, E, N, M, X, N0, R, B, T0, W0, P, P0, F0, L, F, K, D0, M0, I0, Z, Y, G0, U, Q0, C0, U0, T, S, H]
+Current solution: [J, M, D, W, C, L0, H0, X0, I, E0, A, V0, J0, G, O0, S0, B0, V, K0, Q, R0, A0, E, N, O, X, N0, R, B, T0, W0, P, P0, F0, L, F, K, D0, M0, I0, Z, Y, G0, U, Q0, C0, U0, T, S, H]
+Current solution: [J, N, D, W, C, L0, H0, X0, I, E0, A, V0, J0, G, O0, S0, B0, V, K0, Q, R0, A0, E, M, O, X, N0, R, B, T0, W0, P, P0, F0, L, F, K, D0, M0, I0, Z, Y, G0, U, Q0, C0, U0, T, S, H]
+Current solution: [J, K0, D, W, C, L0, H0, X0, I, E0, A, V0, J0, G, O0, S0, B0, V, N, Q, R0, A0, E, M, O, X, N0, R, B, T0, W0, P, P0, F0, L, F, K, D0, M0, I0, Z, Y, G0, U, Q0, C0, U0, T, S, H]
+Current solution: [J, E, D, W, C, L0, H0, X0, I, E0, A, V0, J0, G, O0, S0, B0, V, N, Q, R0, A0, K0, M, O, X, N0, R, B, T0, W0, P, P0, F0, L, F, K, D0, M0, I0, Z, Y, G0, U, Q0, C0, U0, T, S, H]
+Current solution: [J, A0, D, W, C, L0, H0, X0, I, E0, A, V0, J0, G, O0, S0, B0, V, N, Q, R0, E, K0, M, O, X, N0, R, B, T0, W0, P, P0, F0, L, F, K, D0, M0, I0, Z, Y, G0, U, Q0, C0, U0, T, S, H]
+Current solution: [J, H0, D, W, C, L0, A0, X0, I, E0, A, V0, J0, G, O0, S0, B0, V, N, Q, R0, E, K0, M, O, X, N0, R, B, T0, W0, P, P0, F0, L, F, K, D0, M0, I0, Z, Y, G0, U, Q0, C0, U0, T, S, H]
+Current solution: [J, X0, D, W, C, L0, A0, H0, I, E0, A, V0, J0, G, O0, S0, B0, V, N, Q, R0, E, K0, M, O, X, N0, R, B, T0, W0, P, P0, F0, L, F, K, D0, M0, I0, Z, Y, G0, U, Q0, C0, U0, T, S, H]
+Current solution: [J, X, D, W, C, L0, A0, H0, I, E0, A, V0, J0, G, O0, S0, B0, V, N, Q, R0, E, K0, M, O, X0, N0, R, B, T0, W0, P, P0, F0, L, F, K, D0, M0, I0, Z, Y, G0, U, Q0, C0, U0, T, S, H]
+Current solution: [J, O, D, W, C, L0, A0, H0, I, E0, A, V0, J0, G, O0, S0, B0, V, N, Q, R0, E, K0, M, X, X0, N0, R, B, T0, W0, P, P0, F0, L, F, K, D0, M0, I0, Z, Y, G0, U, Q0, C0, U0, T, S, H]
+Current solution: [J, M, D, W, C, L0, A0, H0, I, E0, A, V0, J0, G, O0, S0, B0, V, N, Q, R0, E, K0, O, X, X0, N0, R, B, T0, W0, P, P0, F0, L, F, K, D0, M0, I0, Z, Y, G0, U, Q0, C0, U0, T, S, H]
+Current solution: [J, K0, D, W, C, L0, A0, H0, I, E0, A, V0, J0, G, O0, S0, B0, V, N, Q, R0, E, M, O, X, X0, N0, R, B, T0, W0, P, P0, F0, L, F, K, D0, M0, I0, Z, Y, G0, U, Q0, C0, U0, T, S, H]
+Current solution: [J, E, D, W, C, L0, A0, H0, I, E0, A, V0, J0, G, O0, S0, B0, V, N, Q, R0, K0, M, O, X, X0, N0, R, B, T0, W0, P, P0, F0, L, F, K, D0, M0, I0, Z, Y, G0, U, Q0, C0, U0, T, S, H]
+Current solution: [J, Y, D, W, C, L0, A0, H0, I, E0, A, V0, J0, G, O0, S0, B0, V, N, Q, R0, K0, M, O, X, X0, N0, R, B, T0, W0, P, P0, F0, L, F, K, D0, M0, I0, Z, E, G0, U, Q0, C0, U0, T, S, H]
+Current solution: [J, Y, W, D, C, L0, A0, H0, I, E0, A, V0, J0, G, O0, S0, B0, V, N, Q, R0, K0, M, O, X, X0, N0, R, B, T0, W0, P, P0, F0, L, F, K, D0, M0, I0, Z, E, G0, U, Q0, C0, U0, T, S, H]
+Current solution: [J, Y, O, D, C, L0, A0, H0, I, E0, A, V0, J0, G, O0, S0, B0, V, N, Q, R0, K0, M, W, X, X0, N0, R, B, T0, W0, P, P0, F0, L, F, K, D0, M0, I0, Z, E, G0, U, Q0, C0, U0, T, S, H]
+Current solution: [J, Y, P, D, C, L0, A0, H0, I, E0, A, V0, J0, G, O0, S0, B0, V, N, Q, R0, K0, M, W, X, X0, N0, R, B, T0, W0, O, P0, F0, L, F, K, D0, M0, I0, Z, E, G0, U, Q0, C0, U0, T, S, H]
+Current solution: [J, Y, L, D, C, L0, A0, H0, I, E0, A, V0, J0, G, O0, S0, B0, V, N, Q, R0, K0, M, W, X, X0, N0, R, B, T0, W0, O, P0, F0, P, F, K, D0, M0, I0, Z, E, G0, U, Q0, C0, U0, T, S, H]
+Current solution: [J, Y, B0, D, C, L0, A0, H0, I, E0, A, V0, J0, G, O0, S0, L, V, N, Q, R0, K0, M, W, X, X0, N0, R, B, T0, W0, O, P0, F0, P, F, K, D0, M0, I0, Z, E, G0, U, Q0, C0, U0, T, S, H]
+Current solution: [J, Y, S0, D, C, L0, A0, H0, I, E0, A, V0, J0, G, O0, B0, L, V, N, Q, R0, K0, M, W, X, X0, N0, R, B, T0, W0, O, P0, F0, P, F, K, D0, M0, I0, Z, E, G0, U, Q0, C0, U0, T, S, H]
+Current solution: [J, Y, D, S0, C, L0, A0, H0, I, E0, A, V0, J0, G, O0, B0, L, V, N, Q, R0, K0, M, W, X, X0, N0, R, B, T0, W0, O, P0, F0, P, F, K, D0, M0, I0, Z, E, G0, U, Q0, C0, U0, T, S, H]
+Current solution: [J, Y, I, S0, C, L0, A0, H0, D, E0, A, V0, J0, G, O0, B0, L, V, N, Q, R0, K0, M, W, X, X0, N0, R, B, T0, W0, O, P0, F0, P, F, K, D0, M0, I0, Z, E, G0, U, Q0, C0, U0, T, S, H]
+Current solution: [J, Y, H0, S0, C, L0, A0, I, D, E0, A, V0, J0, G, O0, B0, L, V, N, Q, R0, K0, M, W, X, X0, N0, R, B, T0, W0, O, P0, F0, P, F, K, D0, M0, I0, Z, E, G0, U, Q0, C0, U0, T, S, H]
+Current solution: [J, Y, X, S0, C, L0, A0, I, D, E0, A, V0, J0, G, O0, B0, L, V, N, Q, R0, K0, M, W, H0, X0, N0, R, B, T0, W0, O, P0, F0, P, F, K, D0, M0, I0, Z, E, G0, U, Q0, C0, U0, T, S, H]
+Current solution: [J, Y, R, S0, C, L0, A0, I, D, E0, A, V0, J0, G, O0, B0, L, V, N, Q, R0, K0, M, W, H0, X0, N0, X, B, T0, W0, O, P0, F0, P, F, K, D0, M0, I0, Z, E, G0, U, Q0, C0, U0, T, S, H]
+Current solution: [J, Y, O, S0, C, L0, A0, I, D, E0, A, V0, J0, G, O0, B0, L, V, N, Q, R0, K0, M, W, H0, X0, N0, X, B, T0, W0, R, P0, F0, P, F, K, D0, M0, I0, Z, E, G0, U, Q0, C0, U0, T, S, H]
+Current solution: [J, Y, P, S0, C, L0, A0, I, D, E0, A, V0, J0, G, O0, B0, L, V, N, Q, R0, K0, M, W, H0, X0, N0, X, B, T0, W0, R, P0, F0, O, F, K, D0, M0, I0, Z, E, G0, U, Q0, C0, U0, T, S, H]
+Current solution: [J, Y, F0, S0, C, L0, A0, I, D, E0, A, V0, J0, G, O0, B0, L, V, N, Q, R0, K0, M, W, H0, X0, N0, X, B, T0, W0, R, P0, P, O, F, K, D0, M0, I0, Z, E, G0, U, Q0, C0, U0, T, S, H]
+Current solution: [J, Y, R0, S0, C, L0, A0, I, D, E0, A, V0, J0, G, O0, B0, L, V, N, Q, F0, K0, M, W, H0, X0, N0, X, B, T0, W0, R, P0, P, O, F, K, D0, M0, I0, Z, E, G0, U, Q0, C0, U0, T, S, H]
+Current solution: [J, Y, Z, S0, C, L0, A0, I, D, E0, A, V0, J0, G, O0, B0, L, V, N, Q, F0, K0, M, W, H0, X0, N0, X, B, T0, W0, R, P0, P, O, F, K, D0, M0, I0, R0, E, G0, U, Q0, C0, U0, T, S, H]
+Current solution: [J, Y, L, S0, C, L0, A0, I, D, E0, A, V0, J0, G, O0, B0, Z, V, N, Q, F0, K0, M, W, H0, X0, N0, X, B, T0, W0, R, P0, P, O, F, K, D0, M0, I0, R0, E, G0, U, Q0, C0, U0, T, S, H]
+Current solution: [J, Y, B0, S0, C, L0, A0, I, D, E0, A, V0, J0, G, O0, L, Z, V, N, Q, F0, K0, M, W, H0, X0, N0, X, B, T0, W0, R, P0, P, O, F, K, D0, M0, I0, R0, E, G0, U, Q0, C0, U0, T, S, H]
+Current solution: [J, Y, O0, S0, C, L0, A0, I, D, E0, A, V0, J0, G, B0, L, Z, V, N, Q, F0, K0, M, W, H0, X0, N0, X, B, T0, W0, R, P0, P, O, F, K, D0, M0, I0, R0, E, G0, U, Q0, C0, U0, T, S, H]
+Current solution: [J, Y, A0, S0, C, L0, O0, I, D, E0, A, V0, J0, G, B0, L, Z, V, N, Q, F0, K0, M, W, H0, X0, N0, X, B, T0, W0, R, P0, P, O, F, K, D0, M0, I0, R0, E, G0, U, Q0, C0, U0, T, S, H]
+Current solution: [J, Y, H0, S0, C, L0, O0, I, D, E0, A, V0, J0, G, B0, L, Z, V, N, Q, F0, K0, M, W, A0, X0, N0, X, B, T0, W0, R, P0, P, O, F, K, D0, M0, I0, R0, E, G0, U, Q0, C0, U0, T, S, H]
+Current solution: [J, Y, W, S0, C, L0, O0, I, D, E0, A, V0, J0, G, B0, L, Z, V, N, Q, F0, K0, M, H0, A0, X0, N0, X, B, T0, W0, R, P0, P, O, F, K, D0, M0, I0, R0, E, G0, U, Q0, C0, U0, T, S, H]
+Current solution: [J, Y, M, S0, C, L0, O0, I, D, E0, A, V0, J0, G, B0, L, Z, V, N, Q, F0, K0, W, H0, A0, X0, N0, X, B, T0, W0, R, P0, P, O, F, K, D0, M0, I0, R0, E, G0, U, Q0, C0, U0, T, S, H]
+Current solution: [J, Y, K0, S0, C, L0, O0, I, D, E0, A, V0, J0, G, B0, L, Z, V, N, Q, F0, M, W, H0, A0, X0, N0, X, B, T0, W0, R, P0, P, O, F, K, D0, M0, I0, R0, E, G0, U, Q0, C0, U0, T, S, H]
+Current solution: [J, Y, K0, I, C, L0, O0, S0, D, E0, A, V0, J0, G, B0, L, Z, V, N, Q, F0, M, W, H0, A0, X0, N0, X, B, T0, W0, R, P0, P, O, F, K, D0, M0, I0, R0, E, G0, U, Q0, C0, U0, T, S, H]
+Current solution: [J, K0, Y, I, C, L0, O0, S0, D, E0, A, V0, J0, G, B0, L, Z, V, N, Q, F0, M, W, H0, A0, X0, N0, X, B, T0, W0, R, P0, P, O, F, K, D0, M0, I0, R0, E, G0, U, Q0, C0, U0, T, S, H]
+Current solution: [J, K0, Y, W, C, L0, O0, S0, D, E0, A, V0, J0, G, B0, L, Z, V, N, Q, F0, M, I, H0, A0, X0, N0, X, B, T0, W0, R, P0, P, O, F, K, D0, M0, I0, R0, E, G0, U, Q0, C0, U0, T, S, H]
+Current solution: [J, K0, Y, M, C, L0, O0, S0, D, E0, A, V0, J0, G, B0, L, Z, V, N, Q, F0, W, I, H0, A0, X0, N0, X, B, T0, W0, R, P0, P, O, F, K, D0, M0, I0, R0, E, G0, U, Q0, C0, U0, T, S, H]
+Current solution: [J, Y, K0, M, C, L0, O0, S0, D, E0, A, V0, J0, G, B0, L, Z, V, N, Q, F0, W, I, H0, A0, X0, N0, X, B, T0, W0, R, P0, P, O, F, K, D0, M0, I0, R0, E, G0, U, Q0, C0, U0, T, S, H]
+Current solution: [J, Y, K0, D0, C, L0, O0, S0, D, E0, A, V0, J0, G, B0, L, Z, V, N, Q, F0, W, I, H0, A0, X0, N0, X, B, T0, W0, R, P0, P, O, F, K, M, M0, I0, R0, E, G0, U, Q0, C0, U0, T, S, H]
+Current solution: [J, Y, K0, Q, C, L0, O0, S0, D, E0, A, V0, J0, G, B0, L, Z, V, N, D0, F0, W, I, H0, A0, X0, N0, X, B, T0, W0, R, P0, P, O, F, K, M, M0, I0, R0, E, G0, U, Q0, C0, U0, T, S, H]
+Current solution: [J, Q, K0, Y, C, L0, O0, S0, D, E0, A, V0, J0, G, B0, L, Z, V, N, D0, F0, W, I, H0, A0, X0, N0, X, B, T0, W0, R, P0, P, O, F, K, M, M0, I0, R0, E, G0, U, Q0, C0, U0, T, S, H]
+Current solution: [J, K0, Q, Y, C, L0, O0, S0, D, E0, A, V0, J0, G, B0, L, Z, V, N, D0, F0, W, I, H0, A0, X0, N0, X, B, T0, W0, R, P0, P, O, F, K, M, M0, I0, R0, E, G0, U, Q0, C0, U0, T, S, H]
+Current solution: [J, K0, Q, Y, L0, C, O0, S0, D, E0, A, V0, J0, G, B0, L, Z, V, N, D0, F0, W, I, H0, A0, X0, N0, X, B, T0, W0, R, P0, P, O, F, K, M, M0, I0, R0, E, G0, U, Q0, C0, U0, T, S, H]
+Current solution: [J, K0, Q, Y, N0, C, O0, S0, D, E0, A, V0, J0, G, B0, L, Z, V, N, D0, F0, W, I, H0, A0, X0, L0, X, B, T0, W0, R, P0, P, O, F, K, M, M0, I0, R0, E, G0, U, Q0, C0, U0, T, S, H]
+Current solution: [J, K0, Q, Y, N0, H0, O0, S0, D, E0, A, V0, J0, G, B0, L, Z, V, N, D0, F0, W, I, C, A0, X0, L0, X, B, T0, W0, R, P0, P, O, F, K, M, M0, I0, R0, E, G0, U, Q0, C0, U0, T, S, H]
+Current solution: [J, K0, Q, Y, N0, A0, O0, S0, D, E0, A, V0, J0, G, B0, L, Z, V, N, D0, F0, W, I, C, H0, X0, L0, X, B, T0, W0, R, P0, P, O, F, K, M, M0, I0, R0, E, G0, U, Q0, C0, U0, T, S, H]
+Current solution: [J, K0, Q, Y, N0, A0, I, S0, D, E0, A, V0, J0, G, B0, L, Z, V, N, D0, F0, W, O0, C, H0, X0, L0, X, B, T0, W0, R, P0, P, O, F, K, M, M0, I0, R0, E, G0, U, Q0, C0, U0, T, S, H]
+Current solution: [J, K0, Q, Y, N0, A0, C, S0, D, E0, A, V0, J0, G, B0, L, Z, V, N, D0, F0, W, O0, I, H0, X0, L0, X, B, T0, W0, R, P0, P, O, F, K, M, M0, I0, R0, E, G0, U, Q0, C0, U0, T, S, H]
+Current solution: [J, K0, Q, Y, N0, A0, E, S0, D, E0, A, V0, J0, G, B0, L, Z, V, N, D0, F0, W, O0, I, H0, X0, L0, X, B, T0, W0, R, P0, P, O, F, K, M, M0, I0, R0, C, G0, U, Q0, C0, U0, T, S, H]
+Current solution: [J, K0, Q, Y, N0, A0, H0, S0, D, E0, A, V0, J0, G, B0, L, Z, V, N, D0, F0, W, O0, I, E, X0, L0, X, B, T0, W0, R, P0, P, O, F, K, M, M0, I0, R0, C, G0, U, Q0, C0, U0, T, S, H]
+Current solution: [J, K0, Q, Y, N0, A0, R0, S0, D, E0, A, V0, J0, G, B0, L, Z, V, N, D0, F0, W, O0, I, E, X0, L0, X, B, T0, W0, R, P0, P, O, F, K, M, M0, I0, H0, C, G0, U, Q0, C0, U0, T, S, H]
+Current solution: [J, K0, Q, Y, N0, A0, E, S0, D, E0, A, V0, J0, G, B0, L, Z, V, N, D0, F0, W, O0, I, R0, X0, L0, X, B, T0, W0, R, P0, P, O, F, K, M, M0, I0, H0, C, G0, U, Q0, C0, U0, T, S, H]
+Current solution: [J, K0, Q, Y, N0, A0, I, S0, D, E0, A, V0, J0, G, B0, L, Z, V, N, D0, F0, W, O0, E, R0, X0, L0, X, B, T0, W0, R, P0, P, O, F, K, M, M0, I0, H0, C, G0, U, Q0, C0, U0, T, S, H]
+Current solution: [J, K0, Q, Y, N0, A0, O0, S0, D, E0, A, V0, J0, G, B0, L, Z, V, N, D0, F0, W, I, E, R0, X0, L0, X, B, T0, W0, R, P0, P, O, F, K, M, M0, I0, H0, C, G0, U, Q0, C0, U0, T, S, H]
+Current solution: [J, K0, Q, Y, N0, A0, M0, S0, D, E0, A, V0, J0, G, B0, L, Z, V, N, D0, F0, W, I, E, R0, X0, L0, X, B, T0, W0, R, P0, P, O, F, K, M, O0, I0, H0, C, G0, U, Q0, C0, U0, T, S, H]
+Current solution: [J, K0, Q, Y, N0, A0, I, S0, D, E0, A, V0, J0, G, B0, L, Z, V, N, D0, F0, W, M0, E, R0, X0, L0, X, B, T0, W0, R, P0, P, O, F, K, M, O0, I0, H0, C, G0, U, Q0, C0, U0, T, S, H]
+Current solution: [J, K0, Q, Y, N0, A0, I0, S0, D, E0, A, V0, J0, G, B0, L, Z, V, N, D0, F0, W, M0, E, R0, X0, L0, X, B, T0, W0, R, P0, P, O, F, K, M, O0, I, H0, C, G0, U, Q0, C0, U0, T, S, H]
+Current solution: [J, K0, Q, Y, N0, A0, H0, S0, D, E0, A, V0, J0, G, B0, L, Z, V, N, D0, F0, W, M0, E, R0, X0, L0, X, B, T0, W0, R, P0, P, O, F, K, M, O0, I, I0, C, G0, U, Q0, C0, U0, T, S, H]
+Current solution: [J, K0, Q, Y, N0, A0, H0, M, D, E0, A, V0, J0, G, B0, L, Z, V, N, D0, F0, W, M0, E, R0, X0, L0, X, B, T0, W0, R, P0, P, O, F, K, S0, O0, I, I0, C, G0, U, Q0, C0, U0, T, S, H]
+Current solution: [J, K0, Q, Y, N0, A0, H0, W, D, E0, A, V0, J0, G, B0, L, Z, V, N, D0, F0, M, M0, E, R0, X0, L0, X, B, T0, W0, R, P0, P, O, F, K, S0, O0, I, I0, C, G0, U, Q0, C0, U0, T, S, H]
+Current solution: [J, K0, Q, Y, N0, A0, H0, K, D, E0, A, V0, J0, G, B0, L, Z, V, N, D0, F0, M, M0, E, R0, X0, L0, X, B, T0, W0, R, P0, P, O, F, W, S0, O0, I, I0, C, G0, U, Q0, C0, U0, T, S, H]
+Current solution: [J, K0, Q, Y, N0, A0, H0, X, D, E0, A, V0, J0, G, B0, L, Z, V, N, D0, F0, M, M0, E, R0, X0, L0, K, B, T0, W0, R, P0, P, O, F, W, S0, O0, I, I0, C, G0, U, Q0, C0, U0, T, S, H]
+Current solution: [J, K0, Q, Y, N0, A0, H0, Q0, D, E0, A, V0, J0, G, B0, L, Z, V, N, D0, F0, M, M0, E, R0, X0, L0, K, B, T0, W0, R, P0, P, O, F, W, S0, O0, I, I0, C, G0, U, X, C0, U0, T, S, H]
+Current solution: [J, K0, Q, Y, N0, A0, H0, W0, D, E0, A, V0, J0, G, B0, L, Z, V, N, D0, F0, M, M0, E, R0, X0, L0, K, B, T0, Q0, R, P0, P, O, F, W, S0, O0, I, I0, C, G0, U, X, C0, U0, T, S, H]
+Current solution: [J, K0, Q, Y, N0, A0, H0, F, D, E0, A, V0, J0, G, B0, L, Z, V, N, D0, F0, M, M0, E, R0, X0, L0, K, B, T0, Q0, R, P0, P, O, W0, W, S0, O0, I, I0, C, G0, U, X, C0, U0, T, S, H]
+Current solution: [J, K0, Q, Y, N0, A0, H0, F, W, E0, A, V0, J0, G, B0, L, Z, V, N, D0, F0, M, M0, E, R0, X0, L0, K, B, T0, Q0, R, P0, P, O, W0, D, S0, O0, I, I0, C, G0, U, X, C0, U0, T, S, H]
+Current solution: [J, K0, Q, Y, N0, A0, H0, F, G0, E0, A, V0, J0, G, B0, L, Z, V, N, D0, F0, M, M0, E, R0, X0, L0, K, B, T0, Q0, R, P0, P, O, W0, D, S0, O0, I, I0, C, W, U, X, C0, U0, T, S, H]
+Current solution: [J, K0, Q, Y, N0, A0, H0, F, X, E0, A, V0, J0, G, B0, L, Z, V, N, D0, F0, M, M0, E, R0, X0, L0, K, B, T0, Q0, R, P0, P, O, W0, D, S0, O0, I, I0, C, W, U, G0, C0, U0, T, S, H]
+Current solution: [J, K0, Q, Y, N0, A0, H0, F, X, W0, A, V0, J0, G, B0, L, Z, V, N, D0, F0, M, M0, E, R0, X0, L0, K, B, T0, Q0, R, P0, P, O, E0, D, S0, O0, I, I0, C, W, U, G0, C0, U0, T, S, H]
+Current solution: [J, K0, Q, Y, N0, A0, H0, F, X, U0, A, V0, J0, G, B0, L, Z, V, N, D0, F0, M, M0, E, R0, X0, L0, K, B, T0, Q0, R, P0, P, O, E0, D, S0, O0, I, I0, C, W, U, G0, C0, W0, T, S, H]
+Current solution: [J, K0, Q, Y, N0, A0, H0, F, X, T, A, V0, J0, G, B0, L, Z, V, N, D0, F0, M, M0, E, R0, X0, L0, K, B, T0, Q0, R, P0, P, O, E0, D, S0, O0, I, I0, C, W, U, G0, C0, W0, U0, S, H]
+Current solution: [J, K0, Q, Y, N0, A0, H0, F, X, K, A, V0, J0, G, B0, L, Z, V, N, D0, F0, M, M0, E, R0, X0, L0, T, B, T0, Q0, R, P0, P, O, E0, D, S0, O0, I, I0, C, W, U, G0, C0, W0, U0, S, H]
+Current solution: [J, K0, Q, Y, N0, A0, H0, L0, X, K, A, V0, J0, G, B0, L, Z, V, N, D0, F0, M, M0, E, R0, X0, F, T, B, T0, Q0, R, P0, P, O, E0, D, S0, O0, I, I0, C, W, U, G0, C0, W0, U0, S, H]
+Current solution: [J, K0, Q, Y, N0, A0, H0, L0, X, F, A, V0, J0, G, B0, L, Z, V, N, D0, F0, M, M0, E, R0, X0, K, T, B, T0, Q0, R, P0, P, O, E0, D, S0, O0, I, I0, C, W, U, G0, C0, W0, U0, S, H]
+Current solution: [J, K0, Q, Y, N0, A0, H0, L0, X, F, T, V0, J0, G, B0, L, Z, V, N, D0, F0, M, M0, E, R0, X0, K, A, B, T0, Q0, R, P0, P, O, E0, D, S0, O0, I, I0, C, W, U, G0, C0, W0, U0, S, H]
+Current solution: [J, K0, Q, Y, N0, A0, H0, L0, X, F, P, V0, J0, G, B0, L, Z, V, N, D0, F0, M, M0, E, R0, X0, K, A, B, T0, Q0, R, P0, T, O, E0, D, S0, O0, I, I0, C, W, U, G0, C0, W0, U0, S, H]
+Current solution: [J, K0, Q, Y, N0, A0, H0, L0, X, F, T0, V0, J0, G, B0, L, Z, V, N, D0, F0, M, M0, E, R0, X0, K, A, B, P, Q0, R, P0, T, O, E0, D, S0, O0, I, I0, C, W, U, G0, C0, W0, U0, S, H]
+Current solution: [J, K0, Q, Y, N0, A0, H0, L0, X, F, V0, T0, J0, G, B0, L, Z, V, N, D0, F0, M, M0, E, R0, X0, K, A, B, P, Q0, R, P0, T, O, E0, D, S0, O0, I, I0, C, W, U, G0, C0, W0, U0, S, H]
+Current solution: [J, K0, Q, Y, N0, A0, H0, L0, X, F, X0, T0, J0, G, B0, L, Z, V, N, D0, F0, M, M0, E, R0, V0, K, A, B, P, Q0, R, P0, T, O, E0, D, S0, O0, I, I0, C, W, U, G0, C0, W0, U0, S, H]
+Current solution: [J, K0, R0, Y, N0, A0, H0, L0, X, F, X0, T0, J0, G, B0, L, Z, V, N, D0, F0, M, M0, E, Q, V0, K, A, B, P, Q0, R, P0, T, O, E0, D, S0, O0, I, I0, C, W, U, G0, C0, W0, U0, S, H]
+Current solution: [J, K0, Y, R0, N0, A0, H0, L0, X, F, X0, T0, J0, G, B0, L, Z, V, N, D0, F0, M, M0, E, Q, V0, K, A, B, P, Q0, R, P0, T, O, E0, D, S0, O0, I, I0, C, W, U, G0, C0, W0, U0, S, H]
+Current solution: [J, K0, Y, E, N0, A0, H0, L0, X, F, X0, T0, J0, G, B0, L, Z, V, N, D0, F0, M, M0, R0, Q, V0, K, A, B, P, Q0, R, P0, T, O, E0, D, S0, O0, I, I0, C, W, U, G0, C0, W0, U0, S, H]
+Current solution: [J, K0, Y, E, M0, A0, H0, L0, X, F, X0, T0, J0, G, B0, L, Z, V, N, D0, F0, M, N0, R0, Q, V0, K, A, B, P, Q0, R, P0, T, O, E0, D, S0, O0, I, I0, C, W, U, G0, C0, W0, U0, S, H]
+Current solution: [J, M, Y, E, M0, A0, H0, L0, X, F, X0, T0, J0, G, B0, L, Z, V, N, D0, F0, K0, N0, R0, Q, V0, K, A, B, P, Q0, R, P0, T, O, E0, D, S0, O0, I, I0, C, W, U, G0, C0, W0, U0, S, H]
+Current solution: [J, M, Y, E, X0, A0, H0, L0, X, F, M0, T0, J0, G, B0, L, Z, V, N, D0, F0, K0, N0, R0, Q, V0, K, A, B, P, Q0, R, P0, T, O, E0, D, S0, O0, I, I0, C, W, U, G0, C0, W0, U0, S, H]
+Current solution: [J, M, Y, E, R, A0, H0, L0, X, F, M0, T0, J0, G, B0, L, Z, V, N, D0, F0, K0, N0, R0, Q, V0, K, A, B, P, Q0, X0, P0, T, O, E0, D, S0, O0, I, I0, C, W, U, G0, C0, W0, U0, S, H]
+Current solution: [J, M, Y, E, P0, A0, H0, L0, X, F, M0, T0, J0, G, B0, L, Z, V, N, D0, F0, K0, N0, R0, Q, V0, K, A, B, P, Q0, X0, R, T, O, E0, D, S0, O0, I, I0, C, W, U, G0, C0, W0, U0, S, H]
+Current solution: [J, M, Y, E, P0, A0, H0, L0, X, F, M0, G, J0, T0, B0, L, Z, V, N, D0, F0, K0, N0, R0, Q, V0, K, A, B, P, Q0, X0, R, T, O, E0, D, S0, O0, I, I0, C, W, U, G0, C0, W0, U0, S, H]
+Current solution: [J, M, Y, E, P0, A0, H0, L0, X, F, M0, A, J0, T0, B0, L, Z, V, N, D0, F0, K0, N0, R0, Q, V0, K, G, B, P, Q0, X0, R, T, O, E0, D, S0, O0, I, I0, C, W, U, G0, C0, W0, U0, S, H]
+Current solution: [J, M, Y, E, P0, A0, H0, L0, X, F, M0, K, J0, T0, B0, L, Z, V, N, D0, F0, K0, N0, R0, Q, V0, A, G, B, P, Q0, X0, R, T, O, E0, D, S0, O0, I, I0, C, W, U, G0, C0, W0, U0, S, H]
+Current solution: [J, M, Y, E, P0, A0, H0, L0, X, F, M0, Q0, J0, T0, B0, L, Z, V, N, D0, F0, K0, N0, R0, Q, V0, A, G, B, P, K, X0, R, T, O, E0, D, S0, O0, I, I0, C, W, U, G0, C0, W0, U0, S, H]
+Current solution: [J, M, Y, E, P0, A0, H0, L0, X, F, M0, Q0, V0, T0, B0, L, Z, V, N, D0, F0, K0, N0, R0, Q, J0, A, G, B, P, K, X0, R, T, O, E0, D, S0, O0, I, I0, C, W, U, G0, C0, W0, U0, S, H]
+Current solution: [J, M, Y, E, P0, A0, H0, L0, X, F, M0, Q0, Q, T0, B0, L, Z, V, N, D0, F0, K0, N0, R0, V0, J0, A, G, B, P, K, X0, R, T, O, E0, D, S0, O0, I, I0, C, W, U, G0, C0, W0, U0, S, H]
+Current solution: [J, M, Q0, E, P0, A0, H0, L0, X, F, M0, Y, Q, T0, B0, L, Z, V, N, D0, F0, K0, N0, R0, V0, J0, A, G, B, P, K, X0, R, T, O, E0, D, S0, O0, I, I0, C, W, U, G0, C0, W0, U0, S, H]
+Current solution: [J, M, K, E, P0, A0, H0, L0, X, F, M0, Y, Q, T0, B0, L, Z, V, N, D0, F0, K0, N0, R0, V0, J0, A, G, B, P, Q0, X0, R, T, O, E0, D, S0, O0, I, I0, C, W, U, G0, C0, W0, U0, S, H]
+Current solution: [J, K, M, E, P0, A0, H0, L0, X, F, M0, Y, Q, T0, B0, L, Z, V, N, D0, F0, K0, N0, R0, V0, J0, A, G, B, P, Q0, X0, R, T, O, E0, D, S0, O0, I, I0, C, W, U, G0, C0, W0, U0, S, H]
+Current solution: [J, K, M, M0, P0, A0, H0, L0, X, F, E, Y, Q, T0, B0, L, Z, V, N, D0, F0, K0, N0, R0, V0, J0, A, G, B, P, Q0, X0, R, T, O, E0, D, S0, O0, I, I0, C, W, U, G0, C0, W0, U0, S, H]
+Current solution: [J, M, K, M0, P0, A0, H0, L0, X, F, E, Y, Q, T0, B0, L, Z, V, N, D0, F0, K0, N0, R0, V0, J0, A, G, B, P, Q0, X0, R, T, O, E0, D, S0, O0, I, I0, C, W, U, G0, C0, W0, U0, S, H]
+Current solution: [J, M, K, F, P0, A0, H0, L0, X, M0, E, Y, Q, T0, B0, L, Z, V, N, D0, F0, K0, N0, R0, V0, J0, A, G, B, P, Q0, X0, R, T, O, E0, D, S0, O0, I, I0, C, W, U, G0, C0, W0, U0, S, H]
+Current solution: [J, M, K, P, P0, A0, H0, L0, X, M0, E, Y, Q, T0, B0, L, Z, V, N, D0, F0, K0, N0, R0, V0, J0, A, G, B, F, Q0, X0, R, T, O, E0, D, S0, O0, I, I0, C, W, U, G0, C0, W0, U0, S, H]
+Current solution: [J, M, K, H, P0, A0, H0, L0, X, M0, E, Y, Q, T0, B0, L, Z, V, N, D0, F0, K0, N0, R0, V0, J0, A, G, B, F, Q0, X0, R, T, O, E0, D, S0, O0, I, I0, C, W, U, G0, C0, W0, U0, S, P]
+Current solution: [J, M, K, A, P0, A0, H0, L0, X, M0, E, Y, Q, T0, B0, L, Z, V, N, D0, F0, K0, N0, R0, V0, J0, H, G, B, F, Q0, X0, R, T, O, E0, D, S0, O0, I, I0, C, W, U, G0, C0, W0, U0, S, P]
+Current solution: [J, M, K, A, M0, A0, H0, L0, X, P0, E, Y, Q, T0, B0, L, Z, V, N, D0, F0, K0, N0, R0, V0, J0, H, G, B, F, Q0, X0, R, T, O, E0, D, S0, O0, I, I0, C, W, U, G0, C0, W0, U0, S, P]
+Current solution: [J, M, K, A, F, A0, H0, L0, X, P0, E, Y, Q, T0, B0, L, Z, V, N, D0, F0, K0, N0, R0, V0, J0, H, G, B, M0, Q0, X0, R, T, O, E0, D, S0, O0, I, I0, C, W, U, G0, C0, W0, U0, S, P]
+Current solution: [J, M, K, A, B, A0, H0, L0, X, P0, E, Y, Q, T0, B0, L, Z, V, N, D0, F0, K0, N0, R0, V0, J0, H, G, F, M0, Q0, X0, R, T, O, E0, D, S0, O0, I, I0, C, W, U, G0, C0, W0, U0, S, P]
+Current solution: [J, M, K, A, G, A0, H0, L0, X, P0, E, Y, Q, T0, B0, L, Z, V, N, D0, F0, K0, N0, R0, V0, J0, H, B, F, M0, Q0, X0, R, T, O, E0, D, S0, O0, I, I0, C, W, U, G0, C0, W0, U0, S, P]
+Current solution: [J, M, K, A, G, H0, A0, L0, X, P0, E, Y, Q, T0, B0, L, Z, V, N, D0, F0, K0, N0, R0, V0, J0, H, B, F, M0, Q0, X0, R, T, O, E0, D, S0, O0, I, I0, C, W, U, G0, C0, W0, U0, S, P]
+Current solution: [J, M, K, A, G, H, A0, L0, X, P0, E, Y, Q, T0, B0, L, Z, V, N, D0, F0, K0, N0, R0, V0, J0, H0, B, F, M0, Q0, X0, R, T, O, E0, D, S0, O0, I, I0, C, W, U, G0, C0, W0, U0, S, P]
+Current solution: [J, M, K, J0, G, H, A0, L0, X, P0, E, Y, Q, T0, B0, L, Z, V, N, D0, F0, K0, N0, R0, V0, A, H0, B, F, M0, Q0, X0, R, T, O, E0, D, S0, O0, I, I0, C, W, U, G0, C0, W0, U0, S, P]
+Current solution: [J, M, K, V0, G, H, A0, L0, X, P0, E, Y, Q, T0, B0, L, Z, V, N, D0, F0, K0, N0, R0, J0, A, H0, B, F, M0, Q0, X0, R, T, O, E0, D, S0, O0, I, I0, C, W, U, G0, C0, W0, U0, S, P]
+Current solution: [J, R0, K, V0, G, H, A0, L0, X, P0, E, Y, Q, T0, B0, L, Z, V, N, D0, F0, K0, N0, M, J0, A, H0, B, F, M0, Q0, X0, R, T, O, E0, D, S0, O0, I, I0, C, W, U, G0, C0, W0, U0, S, P]
+Current solution: [J, E, K, V0, G, H, A0, L0, X, P0, R0, Y, Q, T0, B0, L, Z, V, N, D0, F0, K0, N0, M, J0, A, H0, B, F, M0, Q0, X0, R, T, O, E0, D, S0, O0, I, I0, C, W, U, G0, C0, W0, U0, S, P]
+Current solution: [J, E, M, V0, G, H, A0, L0, X, P0, R0, Y, Q, T0, B0, L, Z, V, N, D0, F0, K0, N0, K, J0, A, H0, B, F, M0, Q0, X0, R, T, O, E0, D, S0, O0, I, I0, C, W, U, G0, C0, W0, U0, S, P]
+Current solution: [J, E, N0, V0, G, H, A0, L0, X, P0, R0, Y, Q, T0, B0, L, Z, V, N, D0, F0, K0, M, K, J0, A, H0, B, F, M0, Q0, X0, R, T, O, E0, D, S0, O0, I, I0, C, W, U, G0, C0, W0, U0, S, P]
+Current solution: [J, E, P0, V0, G, H, A0, L0, X, N0, R0, Y, Q, T0, B0, L, Z, V, N, D0, F0, K0, M, K, J0, A, H0, B, F, M0, Q0, X0, R, T, O, E0, D, S0, O0, I, I0, C, W, U, G0, C0, W0, U0, S, P]
+Current solution: [J, E, P0, N0, G, H, A0, L0, X, V0, R0, Y, Q, T0, B0, L, Z, V, N, D0, F0, K0, M, K, J0, A, H0, B, F, M0, Q0, X0, R, T, O, E0, D, S0, O0, I, I0, C, W, U, G0, C0, W0, U0, S, P]
+Current solution: [J, E, P0, N0, X, H, A0, L0, G, V0, R0, Y, Q, T0, B0, L, Z, V, N, D0, F0, K0, M, K, J0, A, H0, B, F, M0, Q0, X0, R, T, O, E0, D, S0, O0, I, I0, C, W, U, G0, C0, W0, U0, S, P]
+Current solution: [J, E, P0, N0, Q0, H, A0, L0, G, V0, R0, Y, Q, T0, B0, L, Z, V, N, D0, F0, K0, M, K, J0, A, H0, B, F, M0, X, X0, R, T, O, E0, D, S0, O0, I, I0, C, W, U, G0, C0, W0, U0, S, P]
+Current solution: [J, E, P0, N0, R, H, A0, L0, G, V0, R0, Y, Q, T0, B0, L, Z, V, N, D0, F0, K0, M, K, J0, A, H0, B, F, M0, X, X0, Q0, T, O, E0, D, S0, O0, I, I0, C, W, U, G0, C0, W0, U0, S, P]
+Current solution: [J, E, P0, N0, R, G, A0, L0, H, V0, R0, Y, Q, T0, B0, L, Z, V, N, D0, F0, K0, M, K, J0, A, H0, B, F, M0, X, X0, Q0, T, O, E0, D, S0, O0, I, I0, C, W, U, G0, C0, W0, U0, S, P]
+Current solution: [J, E, P0, N0, R, A, A0, L0, H, V0, R0, Y, Q, T0, B0, L, Z, V, N, D0, F0, K0, M, K, J0, G, H0, B, F, M0, X, X0, Q0, T, O, E0, D, S0, O0, I, I0, C, W, U, G0, C0, W0, U0, S, P]
+Current solution: [J, E, P0, N0, R, Q0, A0, L0, H, V0, R0, Y, Q, T0, B0, L, Z, V, N, D0, F0, K0, M, K, J0, G, H0, B, F, M0, X, X0, A, T, O, E0, D, S0, O0, I, I0, C, W, U, G0, C0, W0, U0, S, P]
+Current solution: [J, E, P0, N0, R, X0, A0, L0, H, V0, R0, Y, Q, T0, B0, L, Z, V, N, D0, F0, K0, M, K, J0, G, H0, B, F, M0, X, Q0, A, T, O, E0, D, S0, O0, I, I0, C, W, U, G0, C0, W0, U0, S, P]
+Current solution: [J, E, P0, N0, R, X0, A0, L0, G, V0, R0, Y, Q, T0, B0, L, Z, V, N, D0, F0, K0, M, K, J0, H, H0, B, F, M0, X, Q0, A, T, O, E0, D, S0, O0, I, I0, C, W, U, G0, C0, W0, U0, S, P]
+Current solution: [J, E, P0, N0, R, X0, A0, L0, H0, V0, R0, Y, Q, T0, B0, L, Z, V, N, D0, F0, K0, M, K, J0, H, G, B, F, M0, X, Q0, A, T, O, E0, D, S0, O0, I, I0, C, W, U, G0, C0, W0, U0, S, P]
+Current solution: [J, E, P0, N0, R, X0, A0, L0, H0, Q, R0, Y, V0, T0, B0, L, Z, V, N, D0, F0, K0, M, K, J0, H, G, B, F, M0, X, Q0, A, T, O, E0, D, S0, O0, I, I0, C, W, U, G0, C0, W0, U0, S, P]
+Current solution: [J, H0, P0, N0, R, X0, A0, L0, E, Q, R0, Y, V0, T0, B0, L, Z, V, N, D0, F0, K0, M, K, J0, H, G, B, F, M0, X, Q0, A, T, O, E0, D, S0, O0, I, I0, C, W, U, G0, C0, W0, U0, S, P]
+Current solution: [J, F, P0, N0, R, X0, A0, L0, E, Q, R0, Y, V0, T0, B0, L, Z, V, N, D0, F0, K0, M, K, J0, H, G, B, H0, M0, X, Q0, A, T, O, E0, D, S0, O0, I, I0, C, W, U, G0, C0, W0, U0, S, P]
+Current solution: [J, Q0, P0, N0, R, X0, A0, L0, E, Q, R0, Y, V0, T0, B0, L, Z, V, N, D0, F0, K0, M, K, J0, H, G, B, H0, M0, X, F, A, T, O, E0, D, S0, O0, I, I0, C, W, U, G0, C0, W0, U0, S, P]
+Current solution: [J, Q0, L0, N0, R, X0, A0, P0, E, Q, R0, Y, V0, T0, B0, L, Z, V, N, D0, F0, K0, M, K, J0, H, G, B, H0, M0, X, F, A, T, O, E0, D, S0, O0, I, I0, C, W, U, G0, C0, W0, U0, S, P]
+Current solution: [J, Q0, H0, N0, R, X0, A0, P0, E, Q, R0, Y, V0, T0, B0, L, Z, V, N, D0, F0, K0, M, K, J0, H, G, B, L0, M0, X, F, A, T, O, E0, D, S0, O0, I, I0, C, W, U, G0, C0, W0, U0, S, P]
+Current solution: [J, Q0, B, N0, R, X0, A0, P0, E, Q, R0, Y, V0, T0, B0, L, Z, V, N, D0, F0, K0, M, K, J0, H, G, H0, L0, M0, X, F, A, T, O, E0, D, S0, O0, I, I0, C, W, U, G0, C0, W0, U0, S, P]
+Current solution: [J, Q0, F, N0, R, X0, A0, P0, E, Q, R0, Y, V0, T0, B0, L, Z, V, N, D0, F0, K0, M, K, J0, H, G, H0, L0, M0, X, B, A, T, O, E0, D, S0, O0, I, I0, C, W, U, G0, C0, W0, U0, S, P]
+Current solution: [J, Q0, F, A0, R, X0, N0, P0, E, Q, R0, Y, V0, T0, B0, L, Z, V, N, D0, F0, K0, M, K, J0, H, G, H0, L0, M0, X, B, A, T, O, E0, D, S0, O0, I, I0, C, W, U, G0, C0, W0, U0, S, P]
+Current solution: [J, Q0, F, H0, R, X0, N0, P0, E, Q, R0, Y, V0, T0, B0, L, Z, V, N, D0, F0, K0, M, K, J0, H, G, A0, L0, M0, X, B, A, T, O, E0, D, S0, O0, I, I0, C, W, U, G0, C0, W0, U0, S, P]
+Current solution: [J, Q0, F, G, R, X0, N0, P0, E, Q, R0, Y, V0, T0, B0, L, Z, V, N, D0, F0, K0, M, K, J0, H, H0, A0, L0, M0, X, B, A, T, O, E0, D, S0, O0, I, I0, C, W, U, G0, C0, W0, U0, S, P]
+Current solution: [J, G, F, Q0, R, X0, N0, P0, E, Q, R0, Y, V0, T0, B0, L, Z, V, N, D0, F0, K0, M, K, J0, H, H0, A0, L0, M0, X, B, A, T, O, E0, D, S0, O0, I, I0, C, W, U, G0, C0, W0, U0, S, P]
+Current solution: [J, B, F, Q0, R, X0, N0, P0, E, Q, R0, Y, V0, T0, B0, L, Z, V, N, D0, F0, K0, M, K, J0, H, H0, A0, L0, M0, X, G, A, T, O, E0, D, S0, O0, I, I0, C, W, U, G0, C0, W0, U0, S, P]
+Current solution: [J, S, F, Q0, R, X0, N0, P0, E, Q, R0, Y, V0, T0, B0, L, Z, V, N, D0, F0, K0, M, K, J0, H, H0, A0, L0, M0, X, G, A, T, O, E0, D, S0, O0, I, I0, C, W, U, G0, C0, W0, U0, B, P]
+Current solution: [J, Q0, F, S, R, X0, N0, P0, E, Q, R0, Y, V0, T0, B0, L, Z, V, N, D0, F0, K0, M, K, J0, H, H0, A0, L0, M0, X, G, A, T, O, E0, D, S0, O0, I, I0, C, W, U, G0, C0, W0, U0, B, P]
+Current solution: [J, Q0, F, H0, R, X0, N0, P0, E, Q, R0, Y, V0, T0, B0, L, Z, V, N, D0, F0, K0, M, K, J0, H, S, A0, L0, M0, X, G, A, T, O, E0, D, S0, O0, I, I0, C, W, U, G0, C0, W0, U0, B, P]
+Current solution: [J, Q0, F, M0, R, X0, N0, P0, E, Q, R0, Y, V0, T0, B0, L, Z, V, N, D0, F0, K0, M, K, J0, H, S, A0, L0, H0, X, G, A, T, O, E0, D, S0, O0, I, I0, C, W, U, G0, C0, W0, U0, B, P]
+Current solution: [J, Q0, F, M0, R, X0, N0, P0, E, R0, Q, Y, V0, T0, B0, L, Z, V, N, D0, F0, K0, M, K, J0, H, S, A0, L0, H0, X, G, A, T, O, E0, D, S0, O0, I, I0, C, W, U, G0, C0, W0, U0, B, P]
+Current solution: [J, Q0, F, M0, R, X0, N0, P0, E, R0, Q, Y, K0, T0, B0, L, Z, V, N, D0, F0, V0, M, K, J0, H, S, A0, L0, H0, X, G, A, T, O, E0, D, S0, O0, I, I0, C, W, U, G0, C0, W0, U0, B, P]
+Current solution: [J, Q0, F, M0, R, X0, N0, P0, E, R0, Q, Y, K0, V0, B0, L, Z, V, N, D0, F0, T0, M, K, J0, H, S, A0, L0, H0, X, G, A, T, O, E0, D, S0, O0, I, I0, C, W, U, G0, C0, W0, U0, B, P]
+Current solution: [J, Q0, F, M0, R, X0, N0, P0, E, R0, Q, Y, K0, V0, F0, L, Z, V, N, D0, B0, T0, M, K, J0, H, S, A0, L0, H0, X, G, A, T, O, E0, D, S0, O0, I, I0, C, W, U, G0, C0, W0, U0, B, P]
+Current solution: [J, Q0, F, M0, R, X0, N0, P0, E, R0, Q, Y, K0, V0, D0, L, Z, V, N, F0, B0, T0, M, K, J0, H, S, A0, L0, H0, X, G, A, T, O, E0, D, S0, O0, I, I0, C, W, U, G0, C0, W0, U0, B, P]
+Current solution: [J, Q0, F, M0, R, X0, N0, P0, E, R0, Q, Y, K0, V0, N, L, Z, V, D0, F0, B0, T0, M, K, J0, H, S, A0, L0, H0, X, G, A, T, O, E0, D, S0, O0, I, I0, C, W, U, G0, C0, W0, U0, B, P]
+Current solution: [J, Q0, F, M0, R, X0, N0, P0, E, R0, Q, Y, K0, V0, Z, L, N, V, D0, F0, B0, T0, M, K, J0, H, S, A0, L0, H0, X, G, A, T, O, E0, D, S0, O0, I, I0, C, W, U, G0, C0, W0, U0, B, P]
+Current solution: [J, Q0, F, M0, R, X0, N0, P0, E, R0, Q, Y, K0, V0, L, Z, N, V, D0, F0, B0, T0, M, K, J0, H, S, A0, L0, H0, X, G, A, T, O, E0, D, S0, O0, I, I0, C, W, U, G0, C0, W0, U0, B, P]
+Current solution: [J, Q0, F, M0, R, X0, N0, P0, E, R0, Q, Y, K0, V0, F0, Z, N, V, D0, L, B0, T0, M, K, J0, H, S, A0, L0, H0, X, G, A, T, O, E0, D, S0, O0, I, I0, C, W, U, G0, C0, W0, U0, B, P]
+Current solution: [J, Q0, F, M0, R, X0, N0, P0, E, R0, Q, Y, K0, V0, F0, D0, N, V, Z, L, B0, T0, M, K, J0, H, S, A0, L0, H0, X, G, A, T, O, E0, D, S0, O0, I, I0, C, W, U, G0, C0, W0, U0, B, P]
+Current solution: [J, Q0, F, M0, R, X0, N0, P0, E, R0, Q, Y, K0, V0, F0, D0, V, N, Z, L, B0, T0, M, K, J0, H, S, A0, L0, H0, X, G, A, T, O, E0, D, S0, O0, I, I0, C, W, U, G0, C0, W0, U0, B, P]
+Current solution: [J, Q0, F, M0, R, X0, N0, P0, E, R0, Q, Y, K0, V0, F0, D0, V, N, Z, L, B0, T0, K, M, J0, H, S, A0, L0, H0, X, G, A, T, O, E0, D, S0, O0, I, I0, C, W, U, G0, C0, W0, U0, B, P]
+Current solution: [J, Q0, F, M0, R, X0, N0, P0, E, R0, Q, Y, K0, V0, F0, D0, V, N, Z, L, B0, T0, K, M, J0, H, O, A0, L0, H0, X, G, A, T, S, E0, D, S0, O0, I, I0, C, W, U, G0, C0, W0, U0, B, P]
+Current solution: [J, Q0, F, M0, R, X0, N0, P0, E, R0, Q, Y, K0, V0, F0, D0, V, N, Z, L, B0, T0, K, M, J0, H, X, A0, L0, H0, O, G, A, T, S, E0, D, S0, O0, I, I0, C, W, U, G0, C0, W0, U0, B, P]
+Current solution: [J, Q0, F, M0, R, X0, N0, P0, E, R0, Q, Y, K0, V0, F0, D0, V, N, Z, L, B0, T0, K, M, J0, H, H0, A0, L0, X, O, G, A, T, S, E0, D, S0, O0, I, I0, C, W, U, G0, C0, W0, U0, B, P]
+Current solution: [J, Q0, F, M0, R, X0, N0, P0, E, R0, Q, Y, K0, V0, F0, D0, V, N, Z, L, B0, T0, K, M, J0, H, T, A0, L0, X, O, G, A, H0, S, E0, D, S0, O0, I, I0, C, W, U, G0, C0, W0, U0, B, P]
+Current solution: [J, Q0, F, M0, R, X0, N0, P0, E, R0, Q, Y, K0, V0, F0, D0, V, N, Z, L, B0, T0, K, M, J0, H, G, A0, L0, X, O, T, A, H0, S, E0, D, S0, O0, I, I0, C, W, U, G0, C0, W0, U0, B, P]
+Current solution: [J, Q0, F, M0, R, X0, N0, P0, E, R0, Q, Y, K0, V0, F0, D0, V, N, Z, L, B0, T0, K, M, J0, H, G, A, L0, X, O, T, A0, H0, S, E0, D, S0, O0, I, I0, C, W, U, G0, C0, W0, U0, B, P]
+Current solution: [J, Q0, F, M0, R, X0, N0, P0, E, R0, Q, Y, K0, V0, F0, D0, V, N, Z, L, B0, T0, K, M, J0, H, G, A, X, L0, O, T, A0, H0, S, E0, D, S0, O0, I, I0, C, W, U, G0, C0, W0, U0, B, P]
+Current solution: [J, Q0, F, M0, R, X0, N0, P0, E, R0, Q, Y, K0, V0, F0, D0, V, N, Z, L, B0, T0, K, M, J0, H, G, A, U0, L0, O, T, A0, H0, S, E0, D, S0, O0, I, I0, C, W, U, G0, C0, W0, X, B, P]
+Current solution: [J, Q0, F, M0, R, X0, N0, P0, E, R0, Q, Y, K0, V0, F0, D0, V, N, Z, L, B0, T0, K, M, J0, H, G, A, S, L0, O, T, A0, H0, U0, E0, D, S0, O0, I, I0, C, W, U, G0, C0, W0, X, B, P]
+Current solution: [J, Q0, F, M0, R, X0, N0, P0, E, R0, Q, Y, K0, V0, F0, D0, V, N, Z, L, B0, T0, K, M, J0, H, G, A, H0, L0, O, T, A0, S, U0, E0, D, S0, O0, I, I0, C, W, U, G0, C0, W0, X, B, P]
+Current solution: [J, Q0, F, M0, R, X0, N0, P0, E, R0, Q, Y, K0, V0, F0, D0, V, N, Z, L, B0, T0, K, M, J0, H, G, A, W0, L0, O, T, A0, S, U0, E0, D, S0, O0, I, I0, C, W, U, G0, C0, H0, X, B, P]
+Current solution: [J, Q0, F, M0, R, X0, N0, P0, E, R0, Q, Y, K0, V0, F0, D0, V, N, Z, L, B0, T0, K, M, J0, H, G, A, W0, T, O, L0, A0, S, U0, E0, D, S0, O0, I, I0, C, W, U, G0, C0, H0, X, B, P]
+Current solution: [J, Q0, F, M0, R, X0, N0, P0, E, R0, Q, Y, K0, V0, F0, D0, V, N, Z, L, B0, T0, K, M, J0, H, G, A, W0, T, O, B, A0, S, U0, E0, D, S0, O0, I, I0, C, W, U, G0, C0, H0, X, L0, P]
+Current solution: [J, Q0, L0, M0, R, X0, N0, P0, E, R0, Q, Y, K0, V0, F0, D0, V, N, Z, L, B0, T0, K, M, J0, H, G, A, W0, T, O, B, A0, S, U0, E0, D, S0, O0, I, I0, C, W, U, G0, C0, H0, X, F, P]
+Current solution: [J, Q0, L0, M0, R, X0, N0, P0, E, R0, Q, Y, K0, V0, F0, D0, V, N, Z, L, B0, T0, K, M, J0, H, G, A, W0, T, O, B, X, S, U0, E0, D, S0, O0, I, I0, C, W, U, G0, C0, H0, A0, F, P]
+Current solution: [J, Q0, A0, M0, R, X0, N0, P0, E, R0, Q, Y, K0, V0, F0, D0, V, N, Z, L, B0, T0, K, M, J0, H, G, A, W0, T, O, B, X, S, U0, E0, D, S0, O0, I, I0, C, W, U, G0, C0, H0, L0, F, P]
+Current solution: [J, Q0, A0, M0, R, X0, N0, P0, E, R0, Q, Y, K0, V0, F0, D0, V, N, Z, L, B0, T0, K, M, J0, H, G, A, W0, T, O, B, X, C0, U0, E0, D, S0, O0, I, I0, C, W, U, G0, S, H0, L0, F, P]
+Current solution: [J, Q0, A0, M0, R, X0, N0, P0, E, R0, Q, Y, K0, V0, F0, D0, V, N, Z, L, B0, T0, K, M, J0, H, G, A, W0, T, O, B, X, U0, C0, E0, D, S0, O0, I, I0, C, W, U, G0, S, H0, L0, F, P]
+Current solution: [J, Q0, A0, M0, R, X0, N0, P0, E, R0, Q, Y, K0, V0, F0, D0, V, N, Z, L, B0, T0, K, M, J0, H, G, A, W0, T, O, B, X, U0, G0, E0, D, S0, O0, I, I0, C, W, U, C0, S, H0, L0, F, P]
+Current solution: [J, Q0, A0, M0, R, X0, N0, P0, E, R0, Q, Y, K0, V0, F0, D0, V, N, Z, L, B0, T0, K, M, J0, H, G, A, W0, T, O, B, X, U0, G0, O0, D, S0, E0, I, I0, C, W, U, C0, S, H0, L0, F, P]
+Current solution: [J, Q0, A0, M0, R, X0, N0, P0, E, R0, Q, Y, K0, V0, F0, D0, V, N, Z, L, B0, T0, K, M, J0, H, G, A, W0, T, O, B, X, U0, G0, I, D, S0, E0, O0, I0, C, W, U, C0, S, H0, L0, F, P]
+Current solution: [J, Q0, A0, M0, R, X0, N0, P0, E, R0, Q, Y, K0, V0, F0, D0, V, N, Z, L, B0, T0, K, M, J0, H, G, A, W0, T, O, B, X, U0, G0, I0, D, S0, E0, O0, I, C, W, U, C0, S, H0, L0, F, P]
+Current solution: [J, Q0, A0, M0, R, X0, N0, P0, E, R0, Q, Y, K0, V0, F0, D0, V, N, Z, L, B0, T0, K, M, J0, H, G, A, W0, T, O, B, X, U0, G0, U, D, S0, E0, O0, I, C, W, I0, C0, S, H0, L0, F, P]
+Current solution: [J, Q0, A0, M0, R, X0, N0, P0, E, R0, Q, Y, K0, V0, F0, D0, V, N, Z, L, B0, T0, K, M, J0, H, G, A, W0, T, O, B, X, U0, G0, O0, D, S0, E0, U, I, C, W, I0, C0, S, H0, L0, F, P]
+Current solution: [J, Q0, A0, M0, R, X0, N0, P0, E, R0, Q, Y, K0, V0, F0, D0, V, N, Z, L, B0, T0, K, M, J0, H, G, A, W0, T, O, B, X, U0, G0, O0, S0, D, E0, U, I, C, W, I0, C0, S, H0, L0, F, P]
+Current solution: [J, Q0, A0, M0, R, X0, N0, P0, E, R0, Q, Y, K0, V0, F0, D0, V, N, Z, L, B0, T0, K, M, J0, H, G, A, W0, T, O, B, X, U0, G0, O0, W, D, E0, U, I, C, S0, I0, C0, S, H0, L0, F, P]
+Current solution: [J, Q0, A0, M0, R, X0, N0, P0, E, R0, Q, Y, K0, V0, F0, D0, V, N, Z, L, B0, T0, K, M, J0, H, G, A, W0, T, O, B, X, U0, G0, C, W, D, E0, U, I, O0, S0, I0, C0, S, H0, L0, F, P]
+Current solution: [J, Q0, A0, M0, R, X0, N0, P0, E, R0, Q, Y, K0, V0, F0, D0, V, N, Z, L, B0, T0, K, M, J0, H, G, A, W0, T, O, B, X, U0, G0, C, I, D, E0, U, W, O0, S0, I0, C0, S, H0, L0, F, P]
+Current solution: [J, Q0, A0, M0, R, X0, N0, P0, E, R0, Q, Y, K0, V0, F0, D0, V, N, Z, L, B0, T0, K, M, J0, H, G, A, W0, T, O, B, X, U0, G0, C, I, W, E0, U, D, O0, S0, I0, C0, S, H0, L0, F, P]
+Current solution: [J, Q0, A0, M0, R, X0, N0, P0, E, R0, Q, Y, K0, V0, F0, D0, V, N, Z, L, B0, T0, K, M, J0, H, G, A, W0, T, O, B, X, U0, G0, C, I, W, U, E0, D, O0, S0, I0, C0, S, H0, L0, F, P]
+Found the simple polygon: [J, Q0, A0, M0, R, X0, N0, P0, E, R0, Q, Y, K0, V0, F0, D0, V, N, Z, L, B0, T0, K, M, J0, H, G, A, W0, T, O, B, X, U0, G0, C, I, W, U, E0, D, O0, S0, I0, C0, S, H0, L0, F, P]
+ ----------------------------  
+Please enter the number of points to be generated: 
+Exiting...

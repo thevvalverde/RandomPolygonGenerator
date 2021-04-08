@@ -1,0 +1,80 @@
+Please enter the number of points to be generated: 
+Please enter the number corresponding to the function you desire.
+1 - Enter Coordinates
+2 - Randomly Generate
+0 - Exit the program.
+A (1, 3)
+B (3, -7)
+C (-9, 8)
+D (-4, 5)
+E (-1, 6)
+F (0, 8)
+G (6, -9)
+H (2, 3)
+I (1, 8)
+J (-7, 1)
+K (-9, 1)
+L (8, -1)
+M (7, 4)
+N (6, -5)
+O (5, -9)
+P (7, 8)
+Q (-3, -1)
+R (-7, -10)
+S (0, -5)
+T (-2, 0)
+Please enter the number corresponding to the function you desire.
+1 - Random permutation
+2 - Nearest Neighbour
+3 - Ant Colony Optimization
+0 - Exit the program.
+Please enter the number corresponding to the function you desire.
+1 - Best-improvement First
+2 - First-improvement
+3 - Less-conflicts
+4 - Anyone
+5 - Simulated Annealing (amount of intersections)
+# - Exit the program.
+Current solution: [G, J, A, Q, T, P, M, C, E, D, I, H, N, R, O, B, S, F, L, K]
+Current solution: [G, J, A, Q, T, P, M, C, E, D, I, H, N, R, O, B, K, F, L, S]
+Current solution: [G, J, A, Q, T, P, M, C, D, E, I, H, N, R, O, B, K, F, L, S]
+Current solution: [G, J, A, Q, T, P, M, C, D, E, I, H, L, R, O, B, K, F, N, S]
+Current solution: [G, J, A, Q, T, F, M, C, D, E, I, H, L, R, O, B, K, P, N, S]
+Current solution: [G, J, A, Q, T, F, M, C, D, E, I, H, L, R, O, B, S, P, N, K]
+Current solution: [G, L, A, Q, T, F, M, C, D, E, I, H, J, R, O, B, S, P, N, K]
+Current solution: [G, L, A, H, T, F, M, C, D, E, I, Q, J, R, O, B, S, P, N, K]
+Current solution: [G, L, A, H, T, I, M, C, D, E, F, Q, J, R, O, B, S, P, N, K]
+Current solution: [G, L, A, H, T, I, M, C, D, E, F, Q, J, N, O, B, S, P, R, K]
+Current solution: [G, L, A, H, T, I, P, C, D, E, F, Q, J, N, O, B, S, M, R, K]
+Current solution: [G, L, A, H, T, I, P, C, D, E, F, Q, J, N, O, B, S, M, K, R]
+Current solution: [G, L, H, A, T, I, P, C, D, E, F, Q, J, N, O, B, S, M, K, R]
+Current solution: [G, L, H, A, T, P, I, C, D, E, F, Q, J, N, O, B, S, M, K, R]
+Current solution: [G, L, H, A, T, P, I, F, D, E, C, Q, J, N, O, B, S, M, K, R]
+Current solution: [G, L, H, T, A, P, I, F, D, E, C, Q, J, N, O, B, S, M, K, R]
+Current solution: [G, L, H, T, A, P, I, F, D, E, C, Q, J, S, O, B, N, M, K, R]
+Current solution: [G, L, N, T, A, P, I, F, D, E, C, Q, J, S, O, B, H, M, K, R]
+Current solution: [G, L, N, B, A, P, I, F, D, E, C, Q, J, S, O, T, H, M, K, R]
+Current solution: [G, L, N, B, T, P, I, F, D, E, C, Q, J, S, O, A, H, M, K, R]
+Current solution: [G, L, N, B, T, O, I, F, D, E, C, Q, J, S, P, A, H, M, K, R]
+Current solution: [G, L, N, B, T, O, I, F, D, E, C, Q, J, S, M, A, H, P, K, R]
+Current solution: [G, L, N, O, T, B, I, F, D, E, C, Q, J, S, M, A, H, P, K, R]
+Current solution: [G, L, N, O, S, B, I, F, D, E, C, Q, J, T, M, A, H, P, K, R]
+Current solution: [G, L, N, O, S, B, P, F, D, E, C, Q, J, T, M, A, H, I, K, R]
+Current solution: [G, L, N, O, S, B, P, F, D, E, C, Q, J, T, M, H, A, I, K, R]
+Current solution: [G, L, N, O, S, B, M, F, D, E, C, Q, J, T, P, H, A, I, K, R]
+Current solution: [G, L, N, O, S, B, M, F, D, E, C, Q, J, T, H, P, A, I, K, R]
+Current solution: [G, L, N, O, S, B, M, F, E, D, C, Q, J, T, H, P, A, I, K, R]
+Current solution: [G, L, N, O, S, B, M, I, E, D, C, Q, J, T, H, P, A, F, K, R]
+Current solution: [G, L, N, O, S, B, M, I, A, D, C, Q, J, T, H, P, E, F, K, R]
+Current solution: [G, L, N, O, S, B, M, P, A, D, C, Q, J, T, H, I, E, F, K, R]
+Current solution: [G, L, N, O, S, B, M, P, H, D, C, Q, J, T, A, I, E, F, K, R]
+Current solution: [G, L, N, O, S, B, M, P, H, D, C, F, J, T, A, I, E, Q, K, R]
+Current solution: [G, L, N, O, S, B, M, P, H, A, C, F, J, T, D, I, E, Q, K, R]
+Current solution: [G, L, N, O, S, B, M, P, H, A, E, F, J, T, D, I, C, Q, K, R]
+Current solution: [G, L, N, O, S, B, M, P, H, A, E, F, I, T, D, J, C, Q, K, R]
+Current solution: [G, L, N, O, S, B, M, P, H, A, E, F, I, T, D, C, J, Q, K, R]
+Current solution: [G, L, N, O, S, B, M, P, H, A, I, F, E, T, D, C, J, Q, K, R]
+Found the simple polygon: [G, L, N, O, S, B, M, P, H, A, I, F, E, T, D, C, J, Q, K, R]
+ ----------------------------  
+Please enter the number of points to be generated: 
+Exiting...

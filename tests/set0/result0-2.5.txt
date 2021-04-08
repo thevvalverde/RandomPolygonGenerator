@@ -1,0 +1,53 @@
+Please enter the number of points to be generated: 
+Please enter the number corresponding to the function you desire.
+1 - Enter Coordinates
+2 - Randomly Generate
+0 - Exit the program.
+A (1, 3)
+B (3, -7)
+C (-9, 8)
+D (-4, 5)
+E (-1, 6)
+F (0, 8)
+G (6, -9)
+H (2, 3)
+I (1, 8)
+J (-7, 1)
+K (-9, 1)
+L (8, -1)
+M (7, 4)
+N (6, -5)
+O (5, -9)
+P (7, 8)
+Q (-3, -1)
+R (-7, -10)
+S (0, -5)
+T (-2, 0)
+Please enter the number corresponding to the function you desire.
+1 - Random permutation
+2 - Nearest Neighbour
+3 - Ant Colony Optimization
+0 - Exit the program.
+Please enter the number corresponding to the function you desire.
+1 - Best-improvement First
+2 - First-improvement
+3 - Less-conflicts
+4 - Anyone
+5 - Simulated Annealing (amount of intersections)
+# - Exit the program.
+Please enter a limit number of annealing iterations: 
+Current solution: [A, H, E, F, I, P, M, L, R, K, D, Q, S, O, N, T, C, G, B, J]
+Current solution: [A, H, E, F, I, P, M, L, C, K, D, Q, S, O, N, T, R, G, B, J]
+Current solution: [A, H, E, F, I, P, M, L, C, K, D, Q, S, O, N, T, B, G, R, J]
+Current solution: [A, H, E, F, I, P, M, L, C, K, D, Q, S, O, B, T, N, G, R, J]
+Current solution: [A, H, E, F, I, P, M, L, J, K, D, Q, S, O, B, T, N, G, R, C]
+Current solution: [A, H, E, F, I, P, M, L, D, K, J, Q, S, O, B, T, N, G, R, C]
+Current solution: [A, H, E, F, I, P, M, L, D, K, R, Q, S, O, B, T, N, G, J, C]
+Current solution: [A, H, E, F, I, P, M, L, D, K, R, Q, S, O, B, G, N, T, J, C]
+Current solution: [A, H, E, F, I, P, M, L, D, J, R, Q, S, O, B, G, N, T, K, C]
+Current solution: [A, H, E, F, I, P, M, L, D, J, T, Q, S, O, B, G, N, R, K, C]
+Current solution: [A, H, E, F, I, P, M, L, D, J, T, Q, S, N, B, G, O, R, K, C]
+Found the simple polygon: [A, H, E, F, I, P, M, L, D, J, T, Q, S, N, B, G, O, R, K, C]
+ ----------------------------  
+Please enter the number of points to be generated: 
+Exiting...

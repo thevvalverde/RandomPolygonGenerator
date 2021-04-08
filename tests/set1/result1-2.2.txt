@@ -1,0 +1,91 @@
+Please enter the number of points to be generated: 
+Please enter the number corresponding to the function you desire.
+1 - Enter Coordinates
+2 - Randomly Generate
+0 - Exit the program.
+A (-7, 20)
+B (-22, 0)
+C (12, 3)
+D (-10, 3)
+E (23, 0)
+F (15, 7)
+G (12, -7)
+H (-23, -17)
+I (-4, -24)
+J (-20, 13)
+K (16, 7)
+L (-22, 13)
+M (-19, -5)
+N (8, 19)
+O (4, 11)
+P (-16, -13)
+Q (-6, -9)
+R (20, -25)
+S (11, -1)
+T (-12, 11)
+U (-21, -16)
+V (-1, -18)
+W (4, -4)
+X (-20, 6)
+Y (-7, 7)
+Z (6, 22)
+A0 (11, 18)
+B0 (16, -4)
+C0 (-14, -20)
+D0 (-22, -3)
+E0 (6, 8)
+F0 (-6, 20)
+G0 (9, -8)
+H0 (23, 2)
+I0 (-22, -14)
+J0 (-10, 17)
+K0 (4, 20)
+L0 (-7, 19)
+M0 (-9, 22)
+N0 (-11, -11)
+O0 (20, -8)
+P0 (-21, 15)
+Q0 (-24, -14)
+R0 (0, -21)
+S0 (-4, 13)
+T0 (-17, 21)
+U0 (-7, -8)
+V0 (2, -3)
+W0 (-6, -13)
+X0 (6, -13)
+Please enter the number corresponding to the function you desire.
+1 - Random permutation
+2 - Nearest Neighbour
+3 - Ant Colony Optimization
+0 - Exit the program.
+Please enter the number corresponding to the function you desire.
+1 - Best-improvement First
+2 - First-improvement
+3 - Less-conflicts
+4 - Anyone
+5 - Simulated Annealing (amount of intersections)
+# - Exit the program.
+Current solution: [A, F0, K0, J0, M0, T0, P0, J, L, X, B, D0, M, P, N0, U0, Q, W0, V, R0, I, C0, U, H, I0, Q0, D, Y, T, S0, O, E0, C, S, B0, G, G0, X0, W, V0, F, K, H0, E, O0, R, A0, N, Z, L0]
+Current solution: [A, F0, Z, J0, M0, T0, P0, J, L, X, B, D0, M, P, N0, U0, Q, W0, V, R0, I, C0, U, H, I0, Q0, D, Y, T, S0, O, E0, C, S, B0, G, G0, X0, W, V0, F, K, H0, E, O0, R, A0, N, K0, L0]
+Current solution: [A, F0, Z, K0, M0, T0, P0, J, L, X, B, D0, M, P, N0, U0, Q, W0, V, R0, I, C0, U, H, I0, Q0, D, Y, T, S0, O, E0, C, S, B0, G, G0, X0, W, V0, F, K, H0, E, O0, R, A0, N, J0, L0]
+Current solution: [A, F0, K0, Z, M0, T0, P0, J, L, X, B, D0, M, P, N0, U0, Q, W0, V, R0, I, C0, U, H, I0, Q0, D, Y, T, S0, O, E0, C, S, B0, G, G0, X0, W, V0, F, K, H0, E, O0, R, A0, N, J0, L0]
+Current solution: [A, F0, K0, Z, M0, T0, P0, J, L, X, B, D0, M, Q0, N0, U0, Q, W0, V, R0, I, C0, U, H, I0, P, D, Y, T, S0, O, E0, C, S, B0, G, G0, X0, W, V0, F, K, H0, E, O0, R, A0, N, J0, L0]
+Current solution: [A, F0, K0, Z, M0, T0, P0, J, L, X, B, D0, M, Q0, P, U0, Q, W0, V, R0, I, C0, U, H, I0, N0, D, Y, T, S0, O, E0, C, S, B0, G, G0, X0, W, V0, F, K, H0, E, O0, R, A0, N, J0, L0]
+Current solution: [A, F0, K0, Z, M0, T0, P0, J, L, X, B, D0, M, Q0, I0, U0, Q, W0, V, R0, I, C0, U, H, P, N0, D, Y, T, S0, O, E0, C, S, B0, G, G0, X0, W, V0, F, K, H0, E, O0, R, A0, N, J0, L0]
+Current solution: [A, F0, K0, Z, M0, T0, P0, J, L, X, B, D0, M, Q0, I0, N0, Q, W0, V, R0, I, C0, U, H, P, U0, D, Y, T, S0, O, E0, C, S, B0, G, G0, X0, W, V0, F, K, H0, E, O0, R, A0, N, J0, L0]
+Current solution: [A, F0, K0, Z, M0, T0, P0, J, L, X, B, D0, M, Q0, I0, P, Q, W0, V, R0, I, C0, U, H, N0, U0, D, Y, T, S0, O, E0, C, S, B0, G, G0, X0, W, V0, F, K, H0, E, O0, R, A0, N, J0, L0]
+Current solution: [A, F0, K0, Z, M0, T0, P0, J, L, X, B, D0, M, Q0, I0, P, H, W0, V, R0, I, C0, U, Q, N0, U0, D, Y, T, S0, O, E0, C, S, B0, G, G0, X0, W, V0, F, K, H0, E, O0, R, A0, N, J0, L0]
+Current solution: [A, F0, K0, Z, M0, T0, P0, J, L, X, B, D0, M, Q0, I0, P, H, C0, V, R0, I, W0, U, Q, N0, U0, D, Y, T, S0, O, E0, C, S, B0, G, G0, X0, W, V0, F, K, H0, E, O0, R, A0, N, J0, L0]
+Current solution: [A, F0, K0, Z, M0, T0, P0, J, L, X, B, D0, M, Q0, I0, P, H, C0, I, R0, V, W0, U, Q, N0, U0, D, Y, T, S0, O, E0, C, S, B0, G, G0, X0, W, V0, F, K, H0, E, O0, R, A0, N, J0, L0]
+Current solution: [A, F0, K0, Z, M0, T0, P0, J, L, X, B, D0, M, Q0, I0, P, H, C0, I, R0, V, W0, U, Q, N0, U0, D, Y, T, S0, O, E0, V0, S, B0, G, G0, X0, W, C, F, K, H0, E, O0, R, A0, N, J0, L0]
+Current solution: [A, F0, K0, Z, M0, T0, P0, J, L, X, B, D0, M, Q0, I0, P, H, C0, I, R0, V, W0, U, Q, N0, U0, D, Y, T, S0, O, E0, V0, W, B0, G, G0, X0, S, C, F, K, H0, E, O0, R, A0, N, J0, L0]
+Current solution: [A, F0, K0, Z, M0, T0, P0, J, L, X, B, D0, M, Q0, I0, P, H, C0, I, R0, V, W0, U, Q, N0, U0, D, Y, T, S0, O, E0, V0, W, X0, G, G0, B0, S, C, F, K, H0, E, O0, R, A0, N, J0, L0]
+Current solution: [A, F0, K0, Z, M0, T0, P0, J, L, X, B, D0, M, Q0, I0, P, H, C0, I, R0, V, W0, U, Q, N0, U0, D, Y, T, S0, O, E0, V0, W, X0, G, G0, R, S, C, F, K, H0, E, O0, B0, A0, N, J0, L0]
+Current solution: [A, F0, K0, Z, M0, T0, P0, J, L, X, B, D0, M, Q0, I0, P, H, C0, I, R0, V, W0, U, Q, N0, U0, D, Y, T, S0, O, E0, V0, W, X0, G0, G, R, S, C, F, K, H0, E, O0, B0, A0, N, J0, L0]
+Current solution: [A, F0, K0, Z, M0, T0, P0, J, L, X, B, D0, M, Q0, I0, P, H, C0, I, R0, V, W0, U, Q, N0, U0, D, Y, T, S0, O, E0, V0, W, X0, G0, G, R, S, C, B0, K, H0, E, O0, F, A0, N, J0, L0]
+Current solution: [A, F0, K0, Z, M0, T0, P0, J, L, X, B, D0, M, Q0, I0, P, H, C0, I, R0, V, W0, U, Q, N0, U0, D, Y, T, S0, O, E0, V0, W, X0, G0, G, R, S, C, B0, O0, H0, E, K, F, A0, N, J0, L0]
+Current solution: [A, F0, K0, Z, M0, T0, P0, J, L, X, B, D0, M, Q0, I0, P, H, C0, I, R0, V, W0, U, Q, N0, U0, D, Y, T, S0, O, E0, V0, W, X0, G0, G, R, S, C, B0, O0, E, H0, K, F, A0, N, J0, L0]
+Found the simple polygon: [A, F0, K0, Z, M0, T0, P0, J, L, X, B, D0, M, Q0, I0, P, H, C0, I, R0, V, W0, U, Q, N0, U0, D, Y, T, S0, O, E0, V0, W, X0, G0, G, R, S, C, B0, O0, E, H0, K, F, A0, N, J0, L0]
+ ----------------------------  
+Please enter the number of points to be generated: 
+Exiting...

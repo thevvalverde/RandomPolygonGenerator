@@ -1,0 +1,15 @@
+Best-Improvement:
+for both the small and the big samples, fails about 50% of the time.
+
+First-Improvement:
+one of the most consistent for big samples, but fails with the same frequency for the small random.
+
+LC:
+fails about 30% of the time for small samples, and frequently runs out of memory for the big ones.
+
+Random:
+almost never fails, but also takes more time.
+
+SA:
+sometimes finds the results in 30 iterations, but then it moves to LC and follows the same pattern.
+

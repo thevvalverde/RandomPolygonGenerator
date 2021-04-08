@@ -1,0 +1,145 @@
+Please enter the number of points to be generated: 
+Please enter the number corresponding to the function you desire.
+1 - Enter Coordinates
+2 - Randomly Generate
+0 - Exit the program.
+A (1, 3)
+B (3, -7)
+C (-9, 8)
+D (-4, 5)
+E (-1, 6)
+F (0, 8)
+G (6, -9)
+H (2, 3)
+I (1, 8)
+J (-7, 1)
+K (-9, 1)
+L (8, -1)
+M (7, 4)
+N (6, -5)
+O (5, -9)
+P (7, 8)
+Q (-3, -1)
+R (-7, -10)
+S (0, -5)
+T (-2, 0)
+Please enter the number corresponding to the function you desire.
+1 - Random permutation
+2 - Nearest Neighbour
+3 - Ant Colony Optimization
+0 - Exit the program.
+Please enter the number corresponding to the function you desire.
+1 - Best-improvement First
+2 - First-improvement
+3 - Less-conflicts
+4 - Anyone
+5 - Simulated Annealing (amount of intersections)
+# - Exit the program.
+Current solution: [A, H, E, P, I, D, J, K, Q, T, S, B, O, G, N, L, M, F, C, R]
+Current solution: [A, H, E, M, I, D, J, K, Q, T, S, B, O, G, N, L, P, F, C, R]
+Current solution: [A, H, E, M, I, D, J, K, Q, T, R, B, O, G, N, L, P, F, C, S]
+Current solution: [A, H, E, M, I, D, C, K, Q, T, R, B, O, G, N, L, P, F, J, S]
+Current solution: [A, H, E, M, I, F, C, K, Q, T, R, B, O, G, N, L, P, D, J, S]
+Current solution: [A, H, E, P, I, F, C, K, Q, T, R, B, O, G, N, L, M, D, J, S]
+Current solution: [A, H, M, P, I, F, C, K, Q, T, R, B, O, G, N, L, E, D, J, S]
+Current solution: [A, H, L, P, I, F, C, K, Q, T, R, B, O, G, N, M, E, D, J, S]
+Current solution: [A, H, N, P, I, F, C, K, Q, T, R, B, O, G, L, M, E, D, J, S]
+Current solution: [A, H, N, M, I, F, C, K, Q, T, R, B, O, G, L, P, E, D, J, S]
+Current solution: [A, H, N, M, I, F, C, K, J, T, R, B, O, G, L, P, E, D, Q, S]
+Current solution: [A, H, N, M, I, F, C, K, J, D, R, B, O, G, L, P, E, T, Q, S]
+Current solution: [A, H, N, M, P, F, C, K, J, D, R, B, O, G, L, I, E, T, Q, S]
+Current solution: [A, H, N, L, P, F, C, K, J, D, R, B, O, G, M, I, E, T, Q, S]
+Current solution: [A, H, N, L, P, I, C, K, J, D, R, B, O, G, M, F, E, T, Q, S]
+Current solution: [A, H, N, G, P, I, C, K, J, D, R, B, O, L, M, F, E, T, Q, S]
+Current solution: [A, H, N, G, M, I, C, K, J, D, R, B, O, L, P, F, E, T, Q, S]
+Current solution: [A, H, N, O, M, I, C, K, J, D, R, B, G, L, P, F, E, T, Q, S]
+Current solution: [A, H, N, B, M, I, C, K, J, D, R, O, G, L, P, F, E, T, Q, S]
+Current solution: [A, H, B, N, M, I, C, K, J, D, R, O, G, L, P, F, E, T, Q, S]
+Current solution: [A, H, B, N, M, P, C, K, J, D, R, O, G, L, I, F, E, T, Q, S]
+Current solution: [A, H, B, N, L, P, C, K, J, D, R, O, G, M, I, F, E, T, Q, S]
+Current solution: [A, H, B, N, G, P, C, K, J, D, R, O, L, M, I, F, E, T, Q, S]
+Current solution: [A, H, B, N, G, M, C, K, J, D, R, O, L, P, I, F, E, T, Q, S]
+Current solution: [A, H, B, N, O, M, C, K, J, D, R, G, L, P, I, F, E, T, Q, S]
+Current solution: [A, H, B, O, N, M, C, K, J, D, R, G, L, P, I, F, E, T, Q, S]
+Current solution: [A, H, B, O, N, M, F, K, J, D, R, G, L, P, I, C, E, T, Q, S]
+Current solution: [A, H, B, O, N, M, F, D, J, K, R, G, L, P, I, C, E, T, Q, S]
+Current solution: [A, H, B, O, N, M, F, C, J, K, R, G, L, P, I, D, E, T, Q, S]
+Current solution: [A, H, B, O, N, M, I, C, J, K, R, G, L, P, F, D, E, T, Q, S]
+Current solution: [A, H, B, O, N, M, P, C, J, K, R, G, L, I, F, D, E, T, Q, S]
+Current solution: [A, H, B, O, N, L, P, C, J, K, R, G, M, I, F, D, E, T, Q, S]
+Current solution: [A, H, B, O, N, L, P, F, J, K, R, G, M, I, C, D, E, T, Q, S]
+Current solution: [A, H, B, O, N, L, P, I, J, K, R, G, M, F, C, D, E, T, Q, S]
+Current solution: [A, H, B, O, N, L, P, I, D, K, R, G, M, F, C, J, E, T, Q, S]
+Current solution: [A, H, B, O, N, G, P, I, D, K, R, L, M, F, C, J, E, T, Q, S]
+Current solution: [A, H, B, O, N, G, M, I, D, K, R, L, P, F, C, J, E, T, Q, S]
+Current solution: [A, H, B, O, N, G, M, P, D, K, R, L, I, F, C, J, E, T, Q, S]
+Current solution: [A, H, B, O, N, G, M, P, J, K, R, L, I, F, C, D, E, T, Q, S]
+Current solution: [A, H, B, O, N, G, L, P, J, K, R, M, I, F, C, D, E, T, Q, S]
+Current solution: [A, H, B, O, N, G, L, P, J, K, R, S, I, F, C, D, E, T, Q, M]
+Current solution: [A, H, B, O, N, G, L, P, E, K, R, S, I, F, C, D, J, T, Q, M]
+Current solution: [A, H, B, O, N, G, L, P, E, D, R, S, I, F, C, K, J, T, Q, M]
+Current solution: [A, H, B, O, N, G, L, P, E, D, J, S, I, F, C, K, R, T, Q, M]
+Current solution: [A, H, B, O, N, G, L, P, E, D, J, S, I, F, C, K, R, Q, T, M]
+Current solution: [A, H, B, O, N, G, L, P, E, D, J, S, T, F, C, K, R, Q, I, M]
+Current solution: [A, H, B, O, N, G, L, P, I, D, J, S, T, F, C, K, R, Q, E, M]
+Current solution: [A, H, B, O, N, G, L, P, I, D, J, R, T, F, C, K, S, Q, E, M]
+Current solution: [A, H, B, O, N, G, L, P, I, D, J, R, S, F, C, K, T, Q, E, M]
+Current solution: [A, H, B, O, N, G, L, P, I, D, J, R, S, F, C, K, Q, T, E, M]
+Current solution: [A, H, B, O, N, G, L, P, I, S, J, R, D, F, C, K, Q, T, E, M]
+Current solution: [A, H, B, O, N, G, L, P, I, S, R, J, D, F, C, K, Q, T, E, M]
+Current solution: [A, H, B, O, N, G, L, P, I, S, R, K, D, F, C, J, Q, T, E, M]
+Current solution: [A, H, B, O, N, G, L, P, I, S, R, K, C, F, D, J, Q, T, E, M]
+Current solution: [A, H, B, O, N, G, L, P, I, E, R, K, C, F, D, J, Q, T, S, M]
+Current solution: [A, H, S, O, N, G, L, P, I, E, R, K, C, F, D, J, Q, T, B, M]
+Current solution: [A, H, T, O, N, G, L, P, I, E, R, K, C, F, D, J, Q, S, B, M]
+Current solution: [A, H, T, B, N, G, L, P, I, E, R, K, C, F, D, J, Q, S, O, M]
+Current solution: [A, H, T, B, O, G, L, P, I, E, R, K, C, F, D, J, Q, S, N, M]
+Current solution: [A, H, T, S, O, G, L, P, I, E, R, K, C, F, D, J, Q, B, N, M]
+Current solution: [A, H, T, S, O, G, L, P, I, E, J, K, C, F, D, R, Q, B, N, M]
+Current solution: [A, H, T, S, O, G, L, P, I, E, D, K, C, F, J, R, Q, B, N, M]
+Current solution: [A, H, T, S, O, G, L, P, I, E, F, K, C, D, J, R, Q, B, N, M]
+Current solution: [A, H, T, S, O, G, L, P, I, E, F, D, C, K, J, R, Q, B, N, M]
+Current solution: [A, H, T, Q, O, G, L, P, I, E, F, D, C, K, J, R, S, B, N, M]
+Current solution: [A, H, T, Q, B, G, L, P, I, E, F, D, C, K, J, R, S, O, N, M]
+Current solution: [A, H, T, Q, B, O, L, P, I, E, F, D, C, K, J, R, S, G, N, M]
+Current solution: [A, H, T, Q, B, S, L, P, I, E, F, D, C, K, J, R, O, G, N, M]
+Current solution: [A, H, T, Q, S, B, L, P, I, E, F, D, C, K, J, R, O, G, N, M]
+Current solution: [A, H, T, Q, S, B, N, P, I, E, F, D, C, K, J, R, O, G, L, M]
+Current solution: [A, H, T, Q, S, B, N, M, I, E, F, D, C, K, J, R, O, G, L, P]
+Current solution: [A, H, T, Q, S, B, N, M, P, E, F, D, C, K, J, R, O, G, L, I]
+Current solution: [A, H, T, Q, S, B, N, M, P, I, F, D, C, K, J, R, O, G, L, E]
+Current solution: [A, H, T, Q, S, B, N, L, P, I, F, D, C, K, J, R, O, G, M, E]
+Current solution: [A, H, T, Q, S, B, N, G, P, I, F, D, C, K, J, R, O, L, M, E]
+Current solution: [A, H, T, Q, S, B, N, O, P, I, F, D, C, K, J, R, G, L, M, E]
+Current solution: [A, H, T, Q, S, B, O, N, P, I, F, D, C, K, J, R, G, L, M, E]
+Current solution: [A, H, T, Q, S, B, O, N, M, I, F, D, C, K, J, R, G, L, P, E]
+Current solution: [A, H, T, Q, S, B, O, N, M, P, F, D, C, K, J, R, G, L, I, E]
+Current solution: [A, H, T, Q, S, B, O, N, L, P, F, D, C, K, J, R, G, M, I, E]
+Current solution: [A, H, T, Q, S, B, O, N, L, P, I, D, C, K, J, R, G, M, F, E]
+Current solution: [A, H, T, Q, S, B, O, N, L, P, I, F, C, K, J, R, G, M, D, E]
+Current solution: [A, H, T, Q, S, B, O, N, L, P, I, F, C, K, J, R, G, M, E, D]
+Current solution: [A, H, T, Q, S, B, O, N, G, P, I, F, C, K, J, R, L, M, E, D]
+Current solution: [A, H, T, Q, S, R, O, N, G, P, I, F, C, K, J, B, L, M, E, D]
+Current solution: [A, H, T, Q, J, R, O, N, G, P, I, F, C, K, S, B, L, M, E, D]
+Current solution: [A, H, T, Q, J, R, O, N, G, M, I, F, C, K, S, B, L, P, E, D]
+Current solution: [A, H, T, Q, J, K, O, N, G, M, I, F, C, R, S, B, L, P, E, D]
+Current solution: [A, H, T, Q, J, K, O, N, G, M, P, F, C, R, S, B, L, I, E, D]
+Current solution: [A, H, T, Q, J, K, O, N, G, L, P, F, C, R, S, B, M, I, E, D]
+Current solution: [A, H, T, Q, J, K, O, N, G, L, P, I, C, R, S, B, M, F, E, D]
+Current solution: [A, H, T, Q, J, K, O, N, G, L, P, I, M, R, S, B, C, F, E, D]
+Current solution: [A, H, T, Q, J, K, O, N, G, L, P, I, M, B, S, R, C, F, E, D]
+Current solution: [A, H, T, Q, J, R, O, N, G, L, P, I, M, B, S, K, C, F, E, D]
+Current solution: [A, H, T, Q, J, S, O, N, G, L, P, I, M, B, R, K, C, F, E, D]
+Current solution: [A, H, T, Q, J, S, B, N, G, L, P, I, M, O, R, K, C, F, E, D]
+Current solution: [A, H, T, Q, J, S, B, M, G, L, P, I, N, O, R, K, C, F, E, D]
+Current solution: [A, H, T, Q, J, S, B, I, G, L, P, M, N, O, R, K, C, F, E, D]
+Current solution: [A, B, T, Q, J, S, H, I, G, L, P, M, N, O, R, K, C, F, E, D]
+Current solution: [A, B, S, Q, J, T, H, I, G, L, P, M, N, O, R, K, C, F, E, D]
+Current solution: [A, B, S, Q, J, T, H, I, N, L, P, M, G, O, R, K, C, F, E, D]
+Current solution: [A, B, S, Q, J, T, H, I, N, M, P, L, G, O, R, K, C, F, E, D]
+Current solution: [A, T, S, Q, J, B, H, I, N, M, P, L, G, O, R, K, C, F, E, D]
+Current solution: [A, T, J, Q, S, B, H, I, N, M, P, L, G, O, R, K, C, F, E, D]
+Found the simple polygon: [A, T, J, Q, S, B, H, I, N, M, P, L, G, O, R, K, C, F, E, D]
+ ----------------------------  
+Please enter the number of points to be generated: 
+Exiting...

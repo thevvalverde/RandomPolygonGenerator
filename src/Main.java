@@ -15,43 +15,11 @@ public class Main {
 	static ArrayList<Coordinate> list;
 	static Random random = new Random();		// create new random generator
 
-	/*
-	 *
-	 */
-	public static boolean UIfindIntersect(){
-		System.out.println("find Intersect? (yes = 1)");
-		if(stdin.nextInt() == 1) return true;
-		return false;
+	public static void leave() {
+		System.out.println("Exiting...");
+		return;
 	}
-
-	/**
-	 * Clones an arraylist of coordinates and its contents.
-	 *
-	 * @param base The ArrayList to be cloned.
-	 * @return A new ArrayList with the same elements as the parameter.
-	 */
-	private static ArrayList<Coordinate> cloneArrayList(ArrayList<Coordinate> base) {
-		ArrayList<Coordinate> clonedList = new ArrayList<>(base.size());
-		for (Coordinate c : base) {
-			clonedList.add(c.clone());
-		}
-		return clonedList;
-	}
-
-	/**
-	 * Clones an arrayList to a TreeSet.
-	 *
-	 * @param base The ArrayList to be transformed.
-	 * @return A TreeSet with the same elements as the parameter.
-	 */
-	private static TreeSet<Coordinate> cloneToTreeSet(ArrayList<Coordinate> base) {
-		TreeSet<Coordinate> clonedSet = new TreeSet<>();
-		for(Coordinate c : base) {
-			clonedSet.add(c.clone());
-		}
-		return clonedSet;
-	}
-
+	
 	/**
 	 * Generates text to the user and waits for a response, to determine the methods which will be used to achieve the final goal.
 	 * @param args A String array containing command line arguments (not used).
@@ -59,169 +27,167 @@ public class Main {
 	public static void main(String[] args) {
 		stdin = new Scanner(System.in);
 
-		while (true) {
+		System.out.println("Please enter the number of points to be generated: ");
 
-			System.out.println("Please enter the number of points to be generated: ");
-			int n = stdin.nextInt();
-			if(n==0) {
-				System.out.println("Exiting...");
-				return;
-			}
-			list = new ArrayList<>(n);
+		int N = stdin.nextInt();
+		if(N==0) {
+			System.out.println("Exiting...");
+			return;
+		}
 
-			System.out.println("Please enter the number corresponding to the function you desire.");
-			System.out.println("1 - Enter Coordinates");
-			System.out.println("2 - Randomly Generate");
-			System.out.println("0 - Exit the program.");
-			int p = stdin.nextInt();
-			if(p==0) {
-				System.out.println("Exiting...");
-				return;
-			}
-			if(p==1){
-				Scanner generator = stdin;
+		list = new ArrayList<>(N);
 
-				for (int i = 0; i < n; i++) {
-					int x = generator.nextInt();
-					int y = generator.nextInt();
+		System.out.println("Please enter the number corresponding to the function you desire.");
+		System.out.println("0 - Exit the program.");
+		System.out.println("1 - Enter Coordinates");
+		System.out.println("2 - Randomly Generate");
+		int P = stdin.nextInt();
+
+		switch(P) {
+			case 0:
+				leave();
+				break;
+			case 1:
+				for(int i = 0; i < N; i++) {
+					int x = stdin.nextInt();
+					int y = stdin.nextInt();
 
 					Coordinate coor = new Coordinate(x, y, i);
-					if (list.contains(coor))
-						i--; 		//  n/(2*m)^2 chance
-					else
-						list.add(coor);
+					if(list.contains(coor)) {
+						System.out.println("Duplicate coordinate.");
+						leave();
+					}
+					list.add(coor);
 				}
-			}
-			if(p==2){
+				break;
+			case 2:
 				Random generator = random;
-
-				System.out.println("Please enter the boundary to generate the points: ");
-				int m = stdin.nextInt();
-				if(m==0) {
-					System.out.println("Exiting...");
-					return;
+				System.out.println("Please enter a boundary:");
+				
+				int M = stdin.nextInt();
+				if (N > (4*M*M)) {
+					System.out.println("Boundary too small.");
+					leave();
 				}
-
-				if(n>(4*m*m)) continue;		// restart loop
-
-				for (int i = 0; i < n; i++) {
-					int x = generator.nextInt(2 * m - 1) - m;
-					int y = generator.nextInt(2 * m - 1) - m;
+				for (int i = 0; i < N; i++) {
+					int x = generator.nextInt(2 * M - 1) - M;
+					int y = generator.nextInt(2 * M - 1) - M;
 
 					Coordinate coor = new Coordinate(x, y, i);
 					if (list.contains(coor))
-						i--; 		//  n/(2*m)^2 chance
+						i--; 		//  N/(2*M)^2 chance
 					else
 						list.add(coor);
 				}
-			}
+				break;
+			default:
+				System.out.println("Invalid input.");
+				leave();
+				break;
+	
+		}
+		for (Coordinate c : list) {
+			System.out.println(c.printName() + " " + c.toString());
+		}
 
-			for (Coordinate c : list) {
-				System.out.println(c.printName() + " " + c.toString());
-			}
+		int choice = -1;
 
-			int choice = -1;
 
+		System.out.println("Please enter the number corresponding to the function you desire.");
+		System.out.println("1 - Random permutation");
+		System.out.println("2 - Nearest Neighbour");
+		System.out.println("3 - Ant Colony Optimization");
+		System.out.println("0 - Exit the program.");
+
+		choice = stdin.nextInt();
+		Candidate result = null;
+
+		switch(choice){
+			case 0:
+				leave();
+				break;	
+			case 1:
+			case 2:
+				result = new Candidate(list, (byte)choice);
+				break;
+			case 3:
+				System.out.println("Please enter the number of ants: ");
+				int maxIterations = stdin.nextInt();
+				result = new Candidate(list, (byte)choice);
+				while((--maxIterations) >= 0){
+					result = result.nextAnt();
+					System.out.print("Current solution: ");
+					result.printList();	
+				}
+				break;
+			default:
+				System.out.println("Invalid input.");
+				return;
+		}
+
+		if(!result.checkIntegrity()) {
+			System.out.println("Invalid input.");
+			return;	
+		}
+
+		if(result.getIntersectionCount() != 0) {
 
 			System.out.println("Please enter the number corresponding to the function you desire.");
-			System.out.println("1 - Random permutation");
-			System.out.println("2 - Nearest Neighbour");
-			System.out.println("3 - Ant Colony Optimization");
 			System.out.println("0 - Exit the program.");
+			System.out.println("1 - Best-improvement First");
+			System.out.println("2 - First-improvement");
+			System.out.println("3 - Less-conflicts");
+			System.out.println("4 - Anyone");
+			System.out.println("5 - Simulated Annealing (amount of intersections)");
 
 			choice = stdin.nextInt();
 
-			Candidate result;
-			switch(choice){
-				case 0:
-					System.out.println("Exiting...");
-					stdin.close();
-					return;
-				case 1:
-				case 2:
-					result = new Candidate(list, (byte)choice);
-					break;
-				case 3:
-					System.out.println("Please enter a limit number of ants: ");
-					int maxIterations = stdin.nextInt();
-					result = new Candidate(list, (byte)choice);
-					while((--maxIterations) > 0){
-						result = result.nextAnt();
-						System.out.print("Current solution: ");
-						result.printList();	
-					}
-					break;
-				default:
-					System.out.println("Invalid input. Try again.");
-					continue;
-			}
+			while(result.getIntersectionCount() != 0) {
 
-			if(!result.checkIntegrity()) {
-				System.out.println("Invalid input. Try again.");
-				continue;	// restart loop
-			}
-
-			if(result.getIntersectionCount() != 0) {
-
-	//			result.printNeighbours();
-
-				if(result.getIntersectionCount() != 0) {
-					System.out.println("Please enter the number corresponding to the function you desire.");
-					System.out.println("1 - Best-improvement First");
-					System.out.println("2 - First-improvement");
-					System.out.println("3 - Less-conflicts");
-					System.out.println("4 - Anyone");
-					System.out.println("5 - Simulated Annealing (amount of intersections)");
-					System.out.println("# - Exit the program.");
-
-					choice = stdin.nextInt();
+				switch (choice) {
+					case 0:
+						leave();
+						break;
+					case 1:
+						result = result.improveBestFirst();
+						break;
+					case 2:
+						result = result.improveFirst();
+						break;
+					case 3:
+						result = result.improveLessConflict();
+						break;
+					case 4:
+						result = result.improveRandom();
+						break;
+					case 5:
+						System.out.println("Please enter a limit number of annealing iterations: ");
+						int maxIterations = stdin.nextInt();
+						double probability = 1.0;
+						Candidate next;
+						while( (--maxIterations) > 0 && probability > 0){
+							probability *= 0.98;
+							next = result.improveRandom();
+							int delta = next.getIntersectionCount() - result.getIntersectionCount();
+							if(delta > 0)
+								result = next;
+							else if (random.nextDouble() > probability)
+								result = next;
+						}
+						choice = 3;		// change to find result by less conflicting
+						break;
+					default:
+						System.out.println("Invalid input.");
+						leave();
 				}
 
-				while(result.getIntersectionCount() != 0) {
-
-					switch (choice) {
-						case 1:
-							result = result.improveBestFirst();
-							break;
-						case 2:
-							result = result.improveFirst();
-							break;
-						case 3:
-							result = result.improveLessConflict();
-							break;
-						case 4:
-							result = result.improveRandom();
-							break;
-						case 5:
-							System.out.println("Please enter a limit number of annealing iterations: ");
-							int maxIterations = stdin.nextInt();
-							double probability = 1.0;
-							Candidate next;
-							while( (--maxIterations) > 0 && probability > 0){
-								probability *= 0.98;
-								next = result.improveRandom();
-								int delta = next.getIntersectionCount() - result.getIntersectionCount();
-								if(delta > 0)
-									result = next;
-								else if (random.nextDouble() > probability)
-									result = next;
-							}
-							choice = 3;		// change to find result by less conflicting
-							break;
-						default:
-							System.out.println("Invalid input. Try again.");
-							choice = 0;
-					}
-
-					System.out.print("Current solution: ");
-					result.printList();
-				}
+				System.out.print("Current solution: ");
+				result.printList();
 			}
-
-			System.out.print("Found the simple polygon: ");
-			result.printList();
-			System.out.println(" ----------------------------  ");
 		}
 
-	}
+		System.out.print("Found the simple polygon: ");
+		result.printList();
+		System.out.println(" ---------------------------- ");
+}
 }

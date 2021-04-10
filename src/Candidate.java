@@ -321,19 +321,12 @@ class Candidate extends ArrayList<Coordinate> {
 		return probability.ceilingEntry( (new Random()).nextDouble() * last ).getValue();
 	}
 
-	/**
-	 * Prints the candidate itself using printArrayList.
-	 */
-	public void printItself(){
-		System.out.print("Itself: ");
-		this.printList();
-	}
+	// -----------------------------  Prints ----------------------------- //
 
 	/**
 	 * Prints every candidate in the neighbourList of the current candidate. 
 	 */
 	public void printNeighbours() {
-
 
 		if(neighbours == null)
 			neighbours = new NeighbourList(this);

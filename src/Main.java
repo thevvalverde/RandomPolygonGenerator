@@ -15,6 +15,9 @@ public class Main {
 	static ArrayList<Coordinate> list;
 	static Random random = new Random();		// create new random generator
 
+	/**
+	 * Generic exiting message and return.
+	 */
 	public static void leave() {
 		System.out.println("Exiting...");
 		return;
@@ -86,6 +89,7 @@ public class Main {
 				break;
 	
 		}
+
 		for (Coordinate c : list) {
 			System.out.println(c.printName() + " " + c.toString());
 		}
@@ -189,5 +193,5 @@ public class Main {
 		System.out.print("Found the simple polygon: ");
 		result.printList();
 		System.out.println(" ---------------------------- ");
-}
+	}
 }

@@ -53,25 +53,6 @@ public class Main {
 	}
 
 	/**
-	 * Prints an ArrayList of coordinates using their names.
-	 * @param result The ArrayList to be printed.
-	 */
-	static void printArrayList(ArrayList<Coordinate> result) {
-		if(result == null){
-			System.out.println("result is null");
-			return;
-		}
-		String ans = "[";
-		for (int i = 0; i < result.size(); i++) {
-			ans += result.get(i).printName();
-			if (i != result.size() - 1)
-				ans += ", ";
-		}
-		ans += "]";
-		System.out.println(ans);
-	}
-
-	/**
 	 * Generates text to the user and waits for a response, to determine the methods which will be used to achieve the final goal.
 	 * @param args A String array containing command line arguments (not used).
 	 */
@@ -167,7 +148,7 @@ public class Main {
 					while((--maxIterations) > 0){
 						result = result.nextAnt();
 						System.out.print("Current solution: ");
-						printArrayList(result);
+						result.printList();	
 					}
 					break;
 				default:
@@ -233,12 +214,12 @@ public class Main {
 					}
 
 					System.out.print("Current solution: ");
-					printArrayList(result);
+					result.printList();
 				}
 			}
 
 			System.out.print("Found the simple polygon: ");
-			printArrayList(result);
+			result.printList();
 			System.out.println(" ----------------------------  ");
 		}
 

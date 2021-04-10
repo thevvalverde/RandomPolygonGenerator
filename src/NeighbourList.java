@@ -39,17 +39,10 @@ class NeighbourList extends ArrayList<Candidate>{
 		Candidate answer = null;
 		for(int i = 0; i < this.size(); i++) {
 			Candidate current = this.get(i);
-			int curPerimeter = 0;
-			for(int j = 0; j < current.size(); j++) {
-				if(j < this.get(i).size()-1 )
-					curPerimeter += Candidate.euclidianDistance(current.get(j), current.get(j+1));
-				else 
-					curPerimeter += Candidate.euclidianDistance(current.get(j), current.get(0));
-			}
-			if(curPerimeter < size){
-				size = curPerimeter;
+			if (current.getPerimeter() < size) {
+				size = current.getPerimeter();
 				answer = current;
-			}
+			}	
 		}
 		return answer;
 	}
